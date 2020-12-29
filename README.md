@@ -14,3 +14,4 @@ new info from journals I don't have yet, add them!  If you think the location is
 changes and adjust if something doesn't look quite right.  Together we can set the record strait, honor those who once lived, and tell their un-told story.
 
 Star and Watch if interested in this project!  I appreciate communication too, don't hesitate to drop me a note.
+<img src="trailmap.png">
