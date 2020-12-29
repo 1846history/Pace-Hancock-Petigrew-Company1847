@@ -15,6 +15,6 @@ changes and adjust if something doesn't look quite right.  Together we can set t
 
 Star and Watch if interested in this project!  I appreciate communication too, don't hesitate to drop me a note.  
 
--Jonathan Taylor
+-Jonathan "JT" Taylor
 
 <A href="https://github.com/1846history/Pace-Hancock-Petigrew-Company1847/blob/main/PaceHancockTrailJTaylor20201229.kmz?raw=true"><img src="PaceHancockPetigrewCompany.png"></A>
