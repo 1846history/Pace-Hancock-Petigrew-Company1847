@@ -5,7 +5,7 @@ native american tribes, bands, and individuals, most of whom are lost to recorde
 project is an attempt to collaborate using the technology that is now available, to stitch some of that history back together.
 
 This KMZ file can be opened as a map in Google Earth.  It shows best-guess locations of camp sites and trail based (so far) on the diaries of James Pace,
-Robert Stanton Bliss, and Levi Hancock. 
+Robert Stanton Bliss, and Levi Hancock. KMZ files are actually Zip compressed files.  If you rename it to a .zip, you can extract doc.kml, which is the actual content Google Earth reads.  I've also attached the KML file.
 
 How you can help:  
 
