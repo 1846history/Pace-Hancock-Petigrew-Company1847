@@ -1,0 +1,2100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Pace-Hancock_Company_San_Joaquin_ValleyJTaylor20201229.kmz</name>
+	<StyleMap id="msn_ylw-pushpin92">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin241</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin350</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1420">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin920</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin103</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin54">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2500">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin390</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin161</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin103">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin810">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin161</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin260</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin14200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1030</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin801">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin181">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin520</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin240</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin7000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin161">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin54">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin920">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0110">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin610">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1210">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin610">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin240">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin320">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin411">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin151">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2101">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin520">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin390">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin61">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin290">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin142">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin52</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin202</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin191">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin54">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin54</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin54</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin213">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin610</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin162">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin610</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin511">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin701</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2300</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin161">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin350">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin72">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin52">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin214">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin212</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin72</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin240">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin231">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin240</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin102</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2700">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin241">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin152">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2101</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin191</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin9200">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin411</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin302</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin801</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin221">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin290</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1210</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin811">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin320</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin811</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2600">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1200">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin102">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin011">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin151</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2300">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin701">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin212">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2500">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin302">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0010">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin260">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3400">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1030">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin260">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin10300">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin320">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2700</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin412">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin61</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin213</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0001">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin202">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Petigrew-Hancock_Company_San_Joaquin_Valley</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>files/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>files/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>July 16, 1847 (Fort Moore, Los Angeles)</name>
+			<description>Thursday 15th weather as comon this day I spent in camp nothing of importatnce accurd Capt Hunter reached peublo with his Company ready for a dischrge on the morrow
+Friday 16th weather cleare &amp; warm This day The Battalion ended there enlistment &amp; was mustard out of survis in the afternoon by Lt Smith of the Draggoons which ended the day (p.55)
+Saturday 17th weather as usual This day I spent at Camp waiting for the Battalion to be paid off in the afternoon Camp A &amp; D Receved there pay. - James Pace
+-------------
+Thur 15th is the last day of our service in the U. S. Service; took up the line of march Early this morning &amp; traveled about 9 miles &amp; crossed the San Gabriel River where Gen Kearney had his Battle continued our march 9 miles farther &amp; arrived at the City of Angels about 4 Oclock this is the most Beautiful place I ever saw as to some things the Orchards &amp; Vineyards are as fine as heart can wish here I drinked of the Juice of the Vine to my Satisfaction &amp; eat most delicious Pears &amp;c
+
+Frid 16th Were Mustered &amp; discharged for which I felt to thank my Heavenly Father that I had been preserved to accomplish the work I was sent to do thus far; from the 16 to the 21t we were detained to receive our pay &amp; prepare for our journey to our beloved families
+- Robert Stanton Bliss
+--------------------------------
+July the 16th. The Battalion was mustered out of service. Soon after, we commenced making arrangements to start on our return to Council Bluffs, at least, as many as chose to go. We chose for our place of encampment a beautiful place for water and feed for animals, three miles from Pueblo.º 
+ -William Hyde</description>
+			<LookAt>
+				<longitude>-118.239767318028</longitude>
+				<latitude>34.05998158117092</latitude>
+				<altitude>0</altitude>
+				<heading>57.84579580918349</heading>
+				<tilt>74.4719432622519</tilt>
+				<range>710.6741035480904</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin231</styleUrl>
+			<Point>
+				<coordinates>-118.242723093318,34.0581946954059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>July 18, 1847 (Staging Area, Rio De Los Angeles State Park)</name>
+			<description>[Present day Rio De Los Angeles State Park]
+http://www.parks.ca.gov/?page_id=22277
+James Pace:
+Sunday 18th weahte ras usuall This day Comp. E. &amp; C Receved there pay after we(sic) they ware paid Brother Lytle &amp; myself removed Three Miles up the River to a spot selected by Br Everatt for a camping ground &amp; a geathering place for all theat was going with us to our famulys a bout one Hundred followed us the same evening The camping ground was on a butifull greene on the banki of the River whare we pitched Camp the first Night on the way home Here we rejoiced in our freedom &amp; in the success we had while in the survis of the United Stats
+Monday 19th weather as usaual This morning all hands set out to rig for ther journy sum for Flour &amp; others for Mules &amp; other nessaryes
+Tuseday 20th weather pleasant The business of fiting out continued companys of Tenns war organised &amp; all ware well pleased
+Weddensday 21th weather pleasant This morning Br Averatt left our camp with his Team to procede as fare as Franciscoes Ranch a distance of forty Miles I road to Peublo had my Mule shod baught one hundred pounds of fustrate Flour at 8$
+Thursday 22th weather pleasant This morning I road to Peublo with Father Peragrew to assist him in geting his Muls that had been taken from him by a sargant of the Draggoons the Mules ware given up to him with out any trouble The morning of the 23 I packed my baggage &amp; started h(sic) home In company with Brother Hyde Capt of the first Fifty we reached General Pecows Ranch whare we encamped on a butifull little streeme we in company four Capt of Tenny Here we drank a cup of wine which we caried in a sack with us (p.56)</description>
+			<LookAt>
+				<longitude>-118.2366456409993</longitude>
+				<latitude>34.09759930858848</latitude>
+				<altitude>0</altitude>
+				<heading>177.0782504287712</heading>
+				<tilt>64.29914862547177</tilt>
+				<range>671.1395212192151</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin162</styleUrl>
+			<Point>
+				<coordinates>-118.236958409025,34.09931599144531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>July 23, 1847 8 miles north of Pueblo</name>
+			<description>July 23rd.  Started from our camp eight miles north of Pueblo.  Many horses broke loose, some not found.  Six miles this day.  Went further, very much scattered.  Agreed to meet at the ranch of the General. (Pico)
+-Levi Hancock</description>
+			<LookAt>
+				<longitude>-118.2908968132941</longitude>
+				<latitude>34.16949867031251</latitude>
+				<altitude>0</altitude>
+				<heading>-31.99402845987718</heading>
+				<tilt>79.45384723218953</tilt>
+				<range>4425.301961532986</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin810</styleUrl>
+			<Point>
+				<coordinates>-118.2780956852046,34.15301512243274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>22 July, 1847 (San Fernado)</name>
+			<description>Thur 22d July Started Earley passed up the valley about 14 miles to San Fernando &amp; encamped at the foot of the mountains Gen Peco visited the camp this afternoon he commanded the Spaniards at the Battle of San Pasquall south of this he is an Intiligent man above the common Spaniards, San Fernando is his Establishment we learn by some of our boys who came to camp to night that the main camp will move tomorrow here we bought our canteens full of wine as we expect to get no more till we arive at Bear Valley 
+
+- Robert Stanton Bliss</description>
+			<LookAt>
+				<longitude>-118.477154090073</longitude>
+				<latitude>34.28842548849038</latitude>
+				<altitude>0</altitude>
+				<heading>-2.906343739107217</heading>
+				<tilt>72.417267344058</tilt>
+				<range>9086.897225883296</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0101</styleUrl>
+			<Point>
+				<coordinates>-118.4689450839374,34.27744071224364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>July 23, 1847 (Officer&apos;s Visit to General Pico&apos;s Ranch)</name>
+			<description>The morning of the 23 I packed my baggage &amp; started h(sic) home In company with Brother Hyde Capt of the first Fifty we reached General Pecows Ranch whare we encamped on a butifull little streeme we in company four Capt of Tenny Here we drank a cup of wine which we caried in a sack with us (p.56)</description>
+			<LookAt>
+				<longitude>-118.4656203982006</longitude>
+				<latitude>34.27039492830923</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6770371379843652</heading>
+				<tilt>71.65514631042724</tilt>
+				<range>409.5822606060092</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin011</styleUrl>
+			<Point>
+				<coordinates>-118.465841543697,34.26877296766893,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>25 July, 1847 - First Mountain</name>
+			<description>July 25th.  Passed over the first mountain which was 9 miles from camp.  After we got to the top of what is seen we were not half up and we went winding our course around the tops until we gained the summit, then turned to the left and went down into another canyon....
+--Levi Hancock</description>
+			<LookAt>
+				<longitude>-118.5076035571451</longitude>
+				<latitude>34.33339009669951</latitude>
+				<altitude>0</altitude>
+				<heading>152.0481664350858</heading>
+				<tilt>70.34305348433438</tilt>
+				<range>1365.66734948827</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2110</styleUrl>
+			<Point>
+				<coordinates>-118.5106535189338,34.33899048296284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>July 24, 1847, Francisco&apos;s Ranch (Santa Clarita, CA)</name>
+			<description>Frid 23d July 1847 Commenced our March early up the Mts we passed on the ridge of one mountain where there was only a mule path &amp; on either side of us was an awful gulff my head grew dizy &amp; I dare not look into the Chasms below; we passed in safety down the other side of the Mts to a Spring &amp; encamped 8 or 10 miles from our last encampment
+
+Sat 24th Continued our march 10 miles to San Francisco the last Ranch we expect to find on our journey here we encamped to buy Beef Cattle &amp; some more Provisions for our use we are in a delightful Valley surrounded by the Everlasting hills of California; we are now about 180 miles North of San Dieago still the sun at noon is almost verticle or over head but we have the trade winds from the Ocean which makes the atmosphere delightful
+
+Sun 25 Mon 26 &amp; Tues 27th lay in Camp to Regulate for our journey bought 42 Beef cattle &amp;
+
+-Robert Stanton Bliss
+------------------------------------
+
+Saturday 24th This morning butifull we left camp early travled a short cistance &amp; meet Brother Hanks who piloted us over the Mountain to franciscows Ranch whare we overtook Bro Averatts company of Pioneers They ware encamped on the River St Clare Here we enjoyd our selves under shade of a large Cottonwood Tree awating the arrival of the remainder of our company.
+Sunday 25th The morning butifull here we spent the day in washing &amp; reparing pack sadles
+Monday 26th wather Clare &amp; warm This day we expected to receve our beef as the Man had arrived he spent the day &amp; did not get as many as we wanted separated for us
+Tuseday 27th weather as common This day we suceeded in geting what beef we wanted in a pen ready for the next day as all the Campany had overtaken us except a verry few which was up in a day or two.
+-James Pace
+----------------------------------
+... Came to the bank of the Santa Clara River.  A beautiful stream it is, one that has two branches.  Our men are found camped on them both.
+26th.  Bought cattle at 2 dollars apiece.
+- Levi Hancock</description>
+			<Camera>
+				<longitude>-118.6008807844335</longitude>
+				<latitude>34.41144731478379</latitude>
+				<altitude>10262.25959781609</altitude>
+				<heading>-16.82408157571972</heading>
+				<tilt>11.82744074421553</tilt>
+				<roll>-3.138989991389706</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ylw-pushpin54</styleUrl>
+			<Point>
+				<coordinates>-118.6146245360544,34.4383406548882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>July 27, 1847 North East Hollow?</name>
+			<description>27th. Marched through a hollow that went out N.E. and went winding through the tops of the mountains.  We followed the trail which must be many hundered years old.  It is worn down in some places three or four feet.  Crossed over high peaks and down into hollows. Sometimes the path is not more than one foot wide on the side of the mountain where if the horse had fell, it would have dashed him to death.  Sometimes on both sides it was so steep no creature of cattle kind could stand,  but we thought if Fremont had been there, we could.   Lost nine cattle.  They were wild and charged on any man who was in their way.  Some were shot and part saved and  brought in here.    Met Russel  Brownal and James Miller came up and told us that the other company was behind, coming and would be able to catch us in one or two days which caused us to rejoice much, and we have peace now.  No swearing or cursing each other.  All are trying to do as well as they can.  Brownal went back to inform the men where we are.  Many deer seen today, said to be small.  Last night a grizley bear came into our camp and we drove him off.  Our horses were much frightened and had have like to broke loose all around.  We were glad to have him leave.  Camped here.  Good timber and water to do for us and animals by waiting patiently.  The water that is found here is salt in these mountains.  The timber is mostly willows in these valleys, some oak, cottonwood,  sycamore.  Saw two beech trees.
+-Levi Hancock
+---------------------------</description>
+			<LookAt>
+				<longitude>-118.6126300568235</longitude>
+				<latitude>34.50459141114841</latitude>
+				<altitude>0</altitude>
+				<heading>-2.983211503741798</heading>
+				<tilt>72.41716515599087</tilt>
+				<range>9074.976729371301</range>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin511</styleUrl>
+			<Point>
+				<coordinates>-118.6118833283688,34.47627398010217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>July 28th, 1847 bad road (12 miles)</name>
+			<description>28th.  We left our camp on the mountains in a beautiful valley and took up another canon comiing in from the northeast and crossed over another mountain continually ascending, going sometimes on the tops and sometimes on the sides of the mountains, winding our way, passing through valleys.  We, today have past through some good timber on the hills by the side of dry beds of the creek.  The roads are narrow, sometimes not over one foot wide, on the side hills.  There is considerable variety of timber in these mountains- some hemlock.  We have seen our route here no timber like the timber in the states.  The leaves are smaller.  Cedar is the most natural.  
+-Levi Hancock
+---------------------------------
+Weddensday 28th Ths morning we left Ranch had with us 41 head of beef cattle 150 Men with there Horses &amp; Mules consisting in all near five hundred we travled a distance of 12 Miles encamped lost several head of cattle butdone extraordinary well consdering the rout a part of the Road was all most impasable for one animel at a time we encamped &amp; savd what Cattle we had
+-James Pace
+---------------------------------
+The 28th. Started with our cattle, which were as wild as deer. Crossed the main divide between Francisco&apos;s and the Tularry Valley. Traveled •12 miles.
+-William Hyde
+--------------------------------
+
+Wed 28th Started for home we assended one of the most difficult mountains I ever passed we lost above half of our Cattle in crossing the mt &amp; heated some others so they probably die &amp; be of no use to us; we came to the top of the mountain &amp; encamped in a small valley where we got water in the holes of the Rocks for our animals (12 m)
+-Robert Stanton Bliss
+--------------------------------</description>
+			<LookAt>
+				<longitude>-118.6726317063354</longitude>
+				<latitude>34.61831775006979</latitude>
+				<altitude>0</altitude>
+				<heading>-3.013252853359771</heading>
+				<tilt>72.41238921311822</tilt>
+				<range>11597.7590848227</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin181</styleUrl>
+			<Point>
+				<coordinates>-118.6886589580991,34.56922543360852,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>July 29, 1847 Hot springs (now cold) 12 miles</name>
+			<description>After we past into the canon the 29th day, we found a stream of water running from the east and bearing to the northwest and winding through the mountains towards the sea.  We went up it for about one mile and it turned to the northeast, and went crooking around until we took another turn nearly northwest, and at once we came up to the foot of a mountain and it looked as if we could go no farther, but all at once we saw a light east and we saw that the stream came down between the mountains from the east.  We turned and went about one mile and it took another turn and came from the northeast.  On vally came in from the east.  We journeyed northeast and ascended the stream until we came what used to be called the hot springs three years ago, but now are cold.  We have traveled over the worst kind of a road between the mountains, and over rocks, and between them.  The would tear our boots.  The worst going I ever saw.  This day made twelve miles.  The counsel is to kill all the cattle tomorrow and dry it.
+-Levi ancock
+-----------------------------------
+Thursday 29th weather Clear &amp; vary warm This morning we persued our joutny travled a distance of 12 Miles over worse road than we had the day before we succeded in pasing the worst part of the rout betwene the Ranch &amp; the Two Song vally we encamped on a buriful spot of ground handy to wood &amp; water
+-James Pace
+-----------------------------------
+Thur 29th July 1847 Started earley &amp; passed up the mountain through the most dificult Pass I ever beheld in all my travels about 15 miles &amp; encamped by a spring where there was plenty of Grass for our animals
+-Robert Stanton Bliss
+----------------------------------
+The 29th. Traveled •12 miles. Camped in a small, but beautiful valley.
+-William Hyde</description>
+			<LookAt>
+				<longitude>-118.7919264001685</longitude>
+				<latitude>34.73558367199772</latitude>
+				<altitude>0</altitude>
+				<heading>-3.081038485421707</heading>
+				<tilt>72.405572761979</tilt>
+				<range>10802.50840208809</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin260</styleUrl>
+			<Point>
+				<coordinates>-118.7948892492857,34.70629977135039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>July 30, 1847 Slaughter Valley?</name>
+			<description>Friday 30th weather Cleare &amp; warm This morning it was thaught best to slaughter our beef &amp; dry it as they ware wild &amp; hard to drive (p.57) we soon slaughterd them &amp; prepaird them for the journy Here all the Brethn caught up we numberd 164 in all father Petagrew named the vally Slaters valley because it was a slaughter to beefe so many sattle in so few minuts
+-James Pace
+-----------------------------------------------
+30th.  This morning our cattle have been killed and we lay by to dry beef.  About one o&apos;clock, I went up on the top of a mountain and drew a map of the canon we past.  I could see our road for a long distance ahead.  I looked up the hallow on the left and northwest.  I saw a large smoke builded I supose by the Indians.  Our men have all come in while I was on the mountain.  Our course is through the valley.
+-Levi Hancock
+-----------------------------------------
+
+Frid 30th this morning killed all of our Beef Cattle &amp; Jerked it through the day &amp; packed it the next morning ready for a start
+-Robert Stanton Bliss
+-----------------------------------
+On the 30th we laid by and killed our cattle, and dried the meat and prepared it for packing.
+-William Hyde
+-----------------------------------</description>
+			<LookAt>
+				<longitude>-118.7869679977494</longitude>
+				<latitude>34.72050541204618</latitude>
+				<altitude>0</altitude>
+				<heading>41.01871568950932</heading>
+				<tilt>72.2132084627746</tilt>
+				<range>5675.586843507225</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1211</styleUrl>
+			<Point>
+				<coordinates>-118.7966372092817,34.70598496639806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>July 31, 1847 - Curing Beef</name>
+			<description>Saturday 31th weather as usual This day we spent in curing our beef Bro Averatt &amp; his company of Pionearse left for the vally he had a guide an Indian from the Ranch whare we baught the cattle
+- James Pace
+-----------------------------
+The 31st. Brother Elisha Averetta started ahead with a few men to look out the route and camping places, etc. 
+- William Hyde
+----------------------------</description>
+			<LookAt>
+				<longitude>-118.7906264176585</longitude>
+				<latitude>34.68862096308374</latitude>
+				<altitude>0</altitude>
+				<heading>160.5741292861792</heading>
+				<tilt>73.28993515579073</tilt>
+				<range>6789.405844222431</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2500</styleUrl>
+			<Point>
+				<coordinates>-118.7993756387479,34.71565472089276,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>July 31, 1847 - Grave of Peter Lebec</name>
+			<description>Sat 31t Started earley continued up the mountain &amp; reached the divide about 2 O&apos; Clock P M then decended 4 or 5 miles &amp; encamped by a beautiful Stream of Water after Staking out my horses I assended the mt to some Spruce trees near the top &amp; took a view of the Mountain Cenery it was Grand in the extreme; saw many signs of Bear Antilope &amp; Deer; this is a General watering place for those animals; found the head of a Bear which I brought to camp; our Indian pilot said it was the bear that killed a man in this place. while writing one of our boys said there was a Grave within a few rods of our camp I left writing &amp; visited the Grave I read on a tree at the head of the Grave Peter Lebeck killed by a bear Oct 17th 1837 with a Cross over the writing and the letters I-S
+- Robert Stanton Bliss
+---------------------------------------------
+Sunday 1th day of August  Cleare &amp; cule wind from the Nort  This morning we packed up &amp; persued our journey  travled a distance of 15 Miles  crost a bone of the Mountain  had good traveling  encamped whare Bro Averatt camped  butifull water &amp; a vally necely set with large Oaks with Mountains on boath sides  This was also a noted place a bear had kiled a Man a few years before--
+-James Pace</description>
+			<LookAt>
+				<longitude>-118.8794953579686</longitude>
+				<latitude>34.8776068932228</latitude>
+				<altitude>0</altitude>
+				<heading>3.290391075074998</heading>
+				<tilt>59.35286771688291</tilt>
+				<range>5516.477876209746</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin214</styleUrl>
+			<Point>
+				<coordinates>-118.8935233552751,34.87408628578696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 1 1847 (Tejon Pass,Lapau Indians)</name>
+			<description>Sunday 1th day of August Cleare &amp; cule wind fromthe Nort Thsi morning we packed up &amp; persued our journy travled a distance of 15 Miles crosed a bone of the Mountain had good travling encamped whare Bro Averatt camped Butifull water &amp; a vally necely set with large Oaks with Mountains on boath sides This was also a noted place a Bear had kiled a Man a few years before--
+-James Pace
+-------------------------
+August 1, 1847.  This morning we packed up our beef and started on our journey.  Made fifteen miles.  Crossed over some small hills.  From last night&apos;s camp, we moved north for about two miles and turned over a hill a diagonal course into a valley, or a branch of the same that we started in.  Here is the hill that we past over and road up this branch.  Runs nearly northwest, after we had gone down on over the N.W. from the mouth of the canon we came out today.
+- Levi Hancock
+-------------------------
+August the 1st. We again started on our course, passed through small valleys and over small ranges of mountains, and after a few days travel, we came to the extensive valley lying between the Sierra Nevada and the coast range of the mountains called the Tuele, or Tularry Valley. We continued our course between these two ranges of mountains, nearly Northwest, until the 20th, on which day we came to settlements on the River Sacrimento.º
+- William Hyde
+-------------------------</description>
+			<LookAt>
+				<longitude>-118.8951610716463</longitude>
+				<latitude>34.87773991157174</latitude>
+				<altitude>0</altitude>
+				<heading>-34.27403603479152</heading>
+				<tilt>73.09811802303349</tilt>
+				<range>957.959512656606</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin320</styleUrl>
+			<Point>
+				<coordinates>-118.8983512671994,34.87750988621745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 1, 1847 (Lake Webb)</name>
+			<description>Sun Augst 1st 1847 This day I am 42 Years old 12 month ago to day we marched into Fort Leavenworth on our way to this country Many are the hardships &amp; privations I have seen the past Year God grant I may not see so many the year to come took up the line of march down the mt about 4 or five miles &amp; come to a large valley Saw a lake about 10 miles in the cen­ter of the valley traveled to it and encamped verry little Grass for our animals &amp; poor water; dug about 4 ft for water &amp; found it but it was as salt as brine so we were content with the other came about 15 m to day; Saw many Antelope Bear Elk &amp; to day - Robert Bliss
+-</description>
+			<LookAt>
+				<longitude>-119.238476187437</longitude>
+				<latitude>35.22568381734729</latitude>
+				<altitude>0</altitude>
+				<heading>3.084443368329602</heading>
+				<tilt>59.36994282970538</tilt>
+				<range>7723.434785166319</range>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin4001</styleUrl>
+			<Point>
+				<coordinates>-119.2384832267425,35.20911134485029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 2, 1847 (Kern River Marshlands)</name>
+			<description>Mon 2d lay by till about two O Clock P.M. waiting for Pilots before us is a Slough miles in width &amp; in places 8 or 10 ft in depth &amp; in the center a River so we will have to go around it traveled about 1/2 miles &amp; encamped waiting for the main camp to come up bought of the Indians Green Corn Millons &amp;c came 5 miles &amp; encamped with the main body - Robert Bliss
+--------------------
+
+----------------------
+Monday 2th weather clear &amp; warm This morning left camp early reavled a distance of 14 Miles to a Lake cald the Tullany then travled up the River 6 Miles &amp; encamped on the plain hear our pilot stoped Bro Averatt secuard another one
+ - James Pace
+--------------------</description>
+			<LookAt>
+				<longitude>-119.1983499129587</longitude>
+				<latitude>35.33032669679166</latitude>
+				<altitude>0</altitude>
+				<heading>3.107649930193234</heading>
+				<tilt>59.36972861767512</tilt>
+				<range>7702.580991800992</range>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin152</styleUrl>
+			<Point>
+				<coordinates>-119.1976000303882,35.31845189759171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 2, 1847 (6 miles up Kern River)</name>
+			<description>Monday 2th weather clear &amp; warm This morning left camp early reavled a distance of 14 Miles to a Lake cald the Tullany then travled up the River 6 Miles &amp; encamped on the plain hear our pilot stoped Bro Averatt secuard another one
+-James Pace
+--------------------------
+Mon 2d lay by till about two O Clock P.M. waiting for Pilots before us is a Slough miles in width &amp; in places 8 or 10 ft in depth &amp; in the center a River so we will have to go around it traveled about 1/2 miles &amp; encamped waiting for the main camp to come up bought of the Indians Green Corn Millons &amp;c came 5 miles &amp; encamped with the main body
+- Robert Stanton Bliss</description>
+			<LookAt>
+				<longitude>-119.0877946340936</longitude>
+				<latitude>35.36299432422375</latitude>
+				<altitude>0</altitude>
+				<heading>26.27516682440803</heading>
+				<tilt>72.6569931238401</tilt>
+				<range>2852.61562750178</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin221</styleUrl>
+			<Point>
+				<coordinates>-119.0918950088574,35.35826593685159,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 3, 1847 Indian Tribe 12 miles upriver</name>
+			<description>Along the Kern river at the edge of the valley floor, The returning Mormon Battalion veterans enjoyed a heartwarming visit with a local tribe-- Robert Bliss thought they were the &quot;Tule&quot; indians, possibly referring to the Tule-Kaweah band of Yokuts,  Penutian Family  (See 20e at http://www.californiaprehistory.com/tribmap.htm).  However, they also thought they were at the Tulare river, but evidence shows they were at the Kern river.  They may not have known the accurate name of the tribe.
+
+See also: http://www.accessgenealogy.com/native/california/miwokindianhist.htm
+http://en.wikipedia.org/wiki/Yokuts
+http://en.wikipedia.org/wiki/Miwok#Culture
+http://www.tachi-yokut.com/index.html
+
+Journal Entries:
+Tues 3d Came about 8 or 10 miles to day on a large River called the Twolarry River which abounds with fish I saw some 2 ft in lenght caught a few &amp;c to night had a talk with the Indians of the Tule tribe the Chief told us we were the best men that had traveled among them while Tears almost come in his eyes they are settled on the border of this valley whis is 40 or 50 miles in breadth Saw many Elk to day - Robert Bliss
+-------------------
+Tuseday l3th weather as usual This mornig we spent sum time conversing &amp; learning all we could from the Indians They a greed to pilot us to whare we could cross the River, we then packed up an dtravled a distance of 12 Miles whare we found grass After diner a number os us sat down with the Chief Indian The boys sang a good song or two which caused the auld Indians hart to swell within him which caused him to exclame we ware the best Men he ever saw &amp; that we ware welcome to come &amp; live with them his feelings ware in expressable we then retiard to bed to await a new day - James Pace
+--------------------
+3rd.  This day an Indian came in camp, and others came.  Some are going for guides.  We travel north today.  We see the canon we came out of and here is the picture below.  We now have camped and from now have to travel a N. N. W. course.  Made twelve miles today along by the Kings River or Rio Ra.  We crooked about considerably today.  There are many fish in these waters.  Last night the Indian Ircolda came into camp and he said we were the best people that ever past this way.  We made him some presents.
+-Levi Hancock
+---------------------</description>
+			<LookAt>
+				<longitude>-118.9361102592492</longitude>
+				<latitude>35.43690748889762</latitude>
+				<altitude>0</altitude>
+				<heading>11.32152088645324</heading>
+				<tilt>72.5635487612191</tilt>
+				<range>2762.828367740561</range>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin92</styleUrl>
+			<Point>
+				<coordinates>-118.936794020706,35.43012231158105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 4, 1847 - Place of Crossing</name>
+			<description>Wed 4th Aug passed up the River 6 or 8 miles to the place of Crossing here we swam our animals &amp; passed our baggage over on the heads of our men &amp; on a rude Raft; Camped on the west Bank of the River; a herd of Antelope Ran through our lines to day
+-Robert Stanton Bliss
+-----------------
+Weddensday 4th weather as Usual travled a distance of 6 Miles to the crossing of the River whare we succeded in geting in geting a cross we camped on the bank (p.58) we sent up the River a few Milew to get a pilot over to R(sic) Kings River
+-James Pace
+-----------------------
+We traveled about N. N.East eight miles and crossed the river.  The horses had to swim until another ford was found a little below that.  We camped on the river.  Some timber here for fire.  Many flags, poplar trees and cottonwoods.  It is a beautiful country-- water enough to water the whole country.  This wilear tribe of Indians have three thousand warriors and many old men they consider too old to fight.  They often fall on the spaniards and fight them.  It is said tha this is the tribe that Lieutenant Thompson fought by order of Col. Cooke, Lieutenant Col of the Mormon Battalion.
+-Levi Hancock
+------------------------
+ The next morning, August 4th, he returned to camp with several Indians, one of them promised to go with us as guide for a few days.  The Indians told us that we would have to travel up the river about twenty miles before we could cross.  We gave them a few presents and continues our journey for about twenty miles, then we crossed it.  Some made a raft to carry over their things, others waded, carried things on their heads.  Our animals swam the river, it is about fifty yards wide and abounds with fish.
+   The second day after starting, the Indian who agreed to travel with us a few days as guide, refused to go any father because we would not hire his entire company, eight in number.  We were now without a guide.
+   Leaving the great valley on our left, we traveled over hills and lofty mountains and camped where water was so scarce that we were watering our animals all night.
+-Henry Bigler</description>
+			<LookAt>
+				<longitude>-118.827940741059</longitude>
+				<latitude>35.42655192386531</latitude>
+				<altitude>0</altitude>
+				<heading>49.52306974992834</heading>
+				<tilt>74.52656758520021</tilt>
+				<range>645.9078932311241</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin412</styleUrl>
+			<Point>
+				<coordinates>-118.8297074027466,35.42526156098619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Camp on the West Bank</name>
+			<LookAt>
+				<longitude>-118.8273705417942</longitude>
+				<latitude>35.42700982365911</latitude>
+				<altitude>0</altitude>
+				<heading>-22.48448639498033</heading>
+				<tilt>74.52649748607173</tilt>
+				<range>637.8198359377385</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0010</styleUrl>
+			<Point>
+				<coordinates>-118.8270335902526,35.42694439722843,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 5, 1847 - 28 Miles North East?</name>
+			<description>Thursday 5th weather as usual we left camp early travled over a hilly road a distance of 28 Miles encamped whare water was scierce &amp; grasing two but in the corse of the night all the Animals was waterd here sum of our animaels run of &amp; was lost
+-James Pace
+-------------------------
+We started early from our camp on the Rio Ra or Kings River, and had considerable brush and timber, and came out on a plain.  Past over a high hill at the head and then went down another, crooking around, between the lofty hills and narrow paths on the bottom of a dry stream.  No timber for a long way of any kind until we came down very low and saw timber still low down and soon we came to it and found down the stream, running to our right and to the east, a hole of water.  Here we had thought to stay and refresh ourselves and animals, but the pioneers went ahead, and to water all of our beasts would have taken till night.  We continued our journey and traveled as we had twelve miles back, a northeast course.  The same we continued until we made twenty eight, and camped in a hollow near or in sight of a high mountain east of us about four miles.  We have past a good deal of timber and through among the large oaks.  For mountain oak in the valleys and grows the cotonwood and poplar.  Saw one buckeye tree.  Northeast course all day.  Our road was crooked and this afternoon was coming over some big hills.  Poor feed and water tonight.
+-Levi Hancock
+--------------------------
+Thur 5th Augst traveled over Mts about 30 miles &amp; encamped by a pool of Brackish water
+-Robert Stanton Bliss
+--------------------------</description>
+			<LookAt>
+				<longitude>-118.8324825566521</longitude>
+				<latitude>35.73382638435001</latitude>
+				<altitude>0</altitude>
+				<heading>1.905237478004367</heading>
+				<tilt>7.22696948137737</tilt>
+				<range>12833.1634513417</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1420</styleUrl>
+			<Point>
+				<coordinates>-118.8403130221182,35.768737313923,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 6, 1847 - 10 miles North East?</name>
+			<description>Friday 6th weather as usual This morning we left camp early travled through the hills a distance of 10 Miles Two companys of Tens stoped behind St John &amp; Alexandre a little contentions but not of any consequence Brother Truman was throne froma Horse &amp; badly hurt but revoverd his helth again
+ - James Pace
+-------------------------
+Frid 6th Started early &amp; came about 10 miles &amp; encamped Still in the mountains by plenty of Water for ourselves &amp; animals; this afternoon Assended a mountain to look out our Road on our Right Stretches out the California Mts on our left lies the Tule Lakes the largest is nearly as large as Lake Erie in the U-States; plenty of Deer Bear Antelope &amp;c here; we are now coming into the Country of Wild Indians; the Spaniards call them munche [mucho] marlow [malo] (viz) verry bad Indians
+- Robert Stanton Bliss
+--------------------------
+[6]th.  Crossed around and over hills, very large, down in deep hollows then up and down dry beds where water once ran.  In about seven miles came down ehre as steep as 45 degrees in some.  We came down in others, not so bad.  We soon found a little water, no grass.  Soon found grass and no water.  Soon found good water and wood and grass.  Last night dug for water in many places.  Traveled north by east today.  Made ten miles.</description>
+			<LookAt>
+				<longitude>-118.8099635952225</longitude>
+				<latitude>36.05021352543961</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1013427212538413</heading>
+				<tilt>79.10255458334231</tilt>
+				<range>40354.16818629737</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1420</styleUrl>
+			<Point>
+				<coordinates>-118.7943530562517,35.92116418538421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 7, 1847 - 16 miles?</name>
+			<description>Saturday 7th weater as usual we left camp early the road hilly travled a distance of 14 Miles encamped in a vally whare we had good frasing Bro St John &amp; Alexander still reaind behind here we left a notice for them to overtake us as soon as posable Here was good resolutions but is in many other cases Men are ------(sic) apt to yeld to little things for selfish motivs
+-- James Pace
+-----------------------------------
+
+Sat 7th traveled about 15 miles among Mts to day &amp; encamped in a fine valley this country is full of Indian Trails &amp; Indians
+ - Robert Stanton Bliss</description>
+			<LookAt>
+				<longitude>-118.7532487761238</longitude>
+				<latitude>36.09362472583407</latitude>
+				<altitude>0</altitude>
+				<heading>59.64736701935156</heading>
+				<tilt>77.28398898789908</tilt>
+				<range>19085.71467987115</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1420</styleUrl>
+			<Point>
+				<coordinates>-118.8178456872544,36.08617721505685,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 8, 1847 - 6 miles, river, pokenwalleys</name>
+			<description>Sunday 8th weather clear &amp; warm journd a distance of 6 Miles Came to a River whare we found sum Inians here we camped as we could not get to the next River a number of Indians came to camp &amp; a greed to pilot us over to the next River her Bro A Day lost one Mule which he thinks the Indians stole The chief Lucksnah another good looking an named Hanarcha &amp; one named Pohoste The name of the Tribe Pokenwallys--
+-James Pace
+--------------------------------
+Sun Augst 8th 1847, Traveled 8 or 10 miles to a fine River where we encamped to obtain a Guide to pass the Chain of Mts on our Right &amp; to Rest &amp; make Repairs for some Rugged Mts; we have meetings occasionally &amp; the Spirit of God is with us &amp; we do &amp; will Rejoice &amp; praise our God for his Goodness &amp; Mercy to us in all of our journey thus far
+- Robert Stanton Bliss
+--------------------------------</description>
+			<LookAt>
+				<longitude>-118.7834841692026</longitude>
+				<latitude>36.1502935875575</latitude>
+				<altitude>0</altitude>
+				<heading>59.62932882398059</heading>
+				<tilt>77.18313804719793</tilt>
+				<range>7566.418314170272</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1420</styleUrl>
+			<Point>
+				<coordinates>-118.7712490315116,36.13253810898087,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 9, 1847 - 25 miles</name>
+			<description>Mon 9th Augst Came 25 miles to day, among mountains &amp; valleys; Saw a human Skull lying by the Road Side as we came along to day; camped by a beautiful River &amp; a large valley Interspersed with timber; in this valley we passed many Mounds like those on the, Mississippi River
+- Robert Stanton Bliss
+-----------------------------
+Monday 9th as usual journed early travled a distance of 25 Miles encamped on the bank of a small Tiver we had good grasing hear a number of Indians Came to our cmap &amp; was friendly They promised that our animals would not be interupted the Piolet Requested the privaledge of going home &amp; we(sic) said he would return &amp; sleep with us (p.59)
+-James Pace
+-----------------------------</description>
+			<LookAt>
+				<longitude>-119.0739859228966</longitude>
+				<latitude>36.35569030495932</latitude>
+				<altitude>0</altitude>
+				<heading>-0.02493478963400714</heading>
+				<tilt>0</tilt>
+				<range>23998.42872436055</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1420</styleUrl>
+			<Point>
+				<coordinates>-119.0428401771863,36.34011220217016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 10, 1847 - 8 miles</name>
+			<description>Tuseday 10th weather as usual left camp early crossed the River travled a distance of 8 Miles past a large Indian Lodge encamped in the Oak woods whare we had a good shade grass &amp; water plenty.
+-James Pace
+------------------------
+Tues 10th Augst Swam our horses &amp;c over the River &amp; came Down the River 6 or 8 miles &amp; camped to wait for the whole camp to come up passed an Indian Buryal Ground to day here are many Indians who are trading with us dayly
+-Robert Stanton Bliss
+------------------------</description>
+			<LookAt>
+				<longitude>-119.0169171775211</longitude>
+				<latitude>36.40170577312654</latitude>
+				<altitude>0</altitude>
+				<heading>0.00891150845902668</heading>
+				<tilt>0</tilt>
+				<range>5231.419567964208</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1420</styleUrl>
+			<Point>
+				<coordinates>-119.0042487600987,36.41263171222137,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 11, 1847 - 25 miles</name>
+			<description>Weddensday 11th weather warm we joutned early travled a distance of 25 Miles crossed a plain near a burning Mountain The heat was so greait that in spite of our exe5rtions sum of the men fainted for want of water but all reached camp by a little after dark one man was throne from his horse a badly hurt Joseph Clark he lost his hors
+-James Pace
+--------------------------
+
+Wed 11th Passed over a plain 25 or 30 m &amp; encamped on a stream of Water we Suffered much for water &amp; in conciquence of the Extreme heat; the hot air would nearly burn our faces as we came over the Plain &amp; many were sick even to vomit; our Animals also suffered much
+-Robert Stanton Bliss
+-------------------------------</description>
+			<LookAt>
+				<longitude>-119.3022846900213</longitude>
+				<latitude>36.61710347147287</latitude>
+				<altitude>0</altitude>
+				<heading>-42.41247760398469</heading>
+				<tilt>0</tilt>
+				<range>624.9725659623786</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<coordinates>-119.3046997706648,36.61710816050801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 12, 1847 - Frightened Indians</name>
+			<description>Thur 12th Last night about 20 Indians warriors came into Camp they were so agitated they could hardly speak but we assured Them we were their friends; they then distributed Grassnuts &amp; sweet water to us to drink &amp; concluded with a friendly dance &amp; then retired to their lodgings this morning were saluted with the well known sound of the domestic fowl crowing as naturally it seemed as if we were in a Settlement of Civilized men: a part of our men started out this morning with an Indian as Guide to look for a pass across the mountains East of us; lay in camp to day; were visited by the Indians &amp; treated to another Dance to day; two of our men returned to Camp to night &amp; reported our Rout was favorable as far as they went; but the mountains ahead looked munche marlow (viz) Verry Bad &amp; Rocky the River up the mountain holds its with &amp; Deph ; this is a Great River &amp; one of the finest streams for mills in the world; the water is pure &amp; clear &amp; full of Fish they are the principle food for the Indians; to day some of our boys went to the Indian Town with Guns &amp; they were so frightened that they fled with all of their Effects they could carry with them; we sent word to pacify them; the name of this River we suppose is King River &amp; we expect this is the tribe that Walker had a fight with &amp; killed some 30 of them at all events they are much afraid of fire arms
+- Robert Stanton Bliss
+------------------------------
+Thursday 12th we rested Brother Averatt went a head to search a paa through the Mountains The River is Butifull streeme about 4 Rods widee which proved to be the St Wahene River -- In the afternoon two of Averatts men returned back brought us faverable word stated that they had travled up the River about Ten miles &amp;forund a good camping ground
+- James Pace
+---------------------------------</description>
+			<LookAt>
+				<longitude>-119.4458401274273</longitude>
+				<latitude>36.75639042900421</latitude>
+				<altitude>0</altitude>
+				<heading>-30.36392167233943</heading>
+				<tilt>74.74849052311545</tilt>
+				<range>6322.607503726778</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1420</styleUrl>
+			<Point>
+				<coordinates>-119.4453395772374,36.75215859687937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 13, 1847 - Mountain pass unfavorable</name>
+			<description>Friday 13th weather as usual Ths morning we left camp persued up the River to whare the boys had selected &amp; encamped to wait further word from Brother Averatt Bro Averaat son returned fro the Mountain &amp; reported unfaverable for geting through &amp; his mind was to return back &amp; keep down the vally to Fort Suters
+ -  James Pace
+Frid 13th Augst Commenced our March through the Canion or pass up the mountains nearly an East course for about 10 miles &amp; encamped on a branch of the Main River; thus far we have found the Mts less Steep &amp; Rocky than we expected &amp; we hope we shall have no difficulty in the Assent or Decent of this Range of Mountains; Saw many Deer &amp; Antelope to day; We have been troubled by wasps &amp; Scorpions of late last night I was stung by a scorpion &amp; I was not alone for at least a half doz of our men was Stung also; they creep into our blankets nights which makes them verry unpleasant Bed­fellows there is a number of kinds of Snakes in this country but they are Generally harmless; I have seen on the Rout a kind of Rattle Snake 5 or 6 foot in length a dark mud colour as well as the large yellow Rattle Snake; Hares Rabbits &amp; a kind of Ground Squirrel &amp; plenty here; the Rackoon Badger &amp;c are in abundance; different kinds of wolves are so plenty that I have seen but few days in California without Seeing more or less of them; they used to Steal our meat while in quarters at San Diego &amp; their howls are as common to us as the barking of dogs used to be our boys have just returned from the mountains &amp; report unfavorable; they have been 15 miles ahead where the atmosphere was cool &amp; they could see snow on Mts ahead &amp; so verry Rocky that our animals could not possibly pass the In­dians also threatened them; much therefore our only alternity is to go back &amp; take the Rout for Suters fort north of this 150 or 200 miles before we can possibly cross the Mts &amp; we expect we shall suffer much before we can get to the north pass; there is one satisfaction we have we shall have a good chance to explore the Great Tule Vally its .Rivers &amp; Lakes &amp;c
+-Robert Stanton Bliss
+-----------------------------------</description>
+			<LookAt>
+				<longitude>-118.9501082001819</longitude>
+				<latitude>36.79587895771421</latitude>
+				<altitude>0</altitude>
+				<heading>0.2193471847561274</heading>
+				<tilt>4.058315443123136</tilt>
+				<range>87414.51091031056</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<coordinates>-119.1602833511756,36.88044280699201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Auguat 14, 1847</name>
+			<description>Saturday 14th weathe as usual This morning we returned down the River crossed over &amp; encmaped ready for a new day
+-James Pace
+--------------------------------
+Sat 14th Augst 1847, commenced our march down the River for about 4 miles &amp; forded the River on some Rapids &amp; then con­tinued down the River untill we came nearly oposite where we encamped night before last; we were met by the Indians; who after we had encamped treated us with a Religious Dance they acted out many a farce Such as killing the Oso or Big bear &amp; fighting with the neighboring tribes of Indians one of the dancers fained to be Shot he Groaned and made many Jestures &amp; finally fell the Chief actor took a pipe Smoked in his Ears face &amp; hands felt of his pult &amp; he soon came to life &amp; shortly Danced as well as ever; they presented Grass nuts &amp; had presents Given them in return they are at war with the tribe that chased our boys Yesterday
+-Robert Stanton Bliss
+-------------------------------</description>
+			<LookAt>
+				<longitude>-119.1048926233589</longitude>
+				<latitude>36.96486204366879</latitude>
+				<altitude>0</altitude>
+				<heading>-30.15961872379533</heading>
+				<tilt>75.2839511804107</tilt>
+				<range>68135.86488469222</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1420</styleUrl>
+			<Point>
+				<coordinates>-119.4131439366901,36.79206375831942,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 15, 1847 - 20 miles, noble large river</name>
+			<description>Sun 15th Augst 1847 took up the line of march a northwest course &amp; traveled about ten miles where we found water by diging let our Animals feed for about 2 hours &amp; then Continued our Journey for 10 miles farther &amp; came to a noble River larger than any we have crossed yet here we encamped; saw many antelope today
+- Robert Stanton Bliss
+-------------------------------
+Sunday 15th This morning we left the Lake fork of the St Waken travled at the foor of the Moutains a distance of 22 Miles to a butifull Su(sic) River Sun larger than the Lake fork we encamped on the bank had good grasing
+-James Pace
+------------------------------</description>
+			<LookAt>
+				<longitude>-119.7224240489058</longitude>
+				<latitude>36.98877629835125</latitude>
+				<altitude>0</altitude>
+				<heading>-42.63470122718396</heading>
+				<tilt>75.98121050476962</tilt>
+				<range>1801.072357596096</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1420</styleUrl>
+			<Point>
+				<coordinates>-119.7122817490978,36.98931662364785,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 16, 1847 - 15 miles up valley</name>
+			<description>Monday 16th This morning we searched out a ford crossed over saf &amp; dry travled a distance of 15 Miles encamped on a creek whare we obtainde plenty of water by diging 2 feet under the sand (p.60)
+-James pace
+-----------------------------
+Mon 16th Spent about 2 hours looking for a suitable place to cross the River crossed on some Rapids &amp; continued our journey for about 15 miles the same course we did Yesterday &amp; encamped on a dry River bed where we obtained plenty of Water by diging in the Sand; Saw plenty of Antelope &amp; the most signs of Elk to day I ever saw; this valley is fine the only lack is timber &amp; Rains, seasonable for crops; we have seen no Rain for 3 months past &amp; not as much as a Good. Shower for 5 or 6 month &amp; I have not heard it thunder or seen lightning since we left the Buffalo Country on the Arkansas River
+- Robert Stanton Bliss</description>
+			<LookAt>
+				<longitude>-120.0067633945203</longitude>
+				<latitude>37.10454087548076</latitude>
+				<altitude>0</altitude>
+				<heading>0.6130201826348882</heading>
+				<tilt>0</tilt>
+				<range>29912.68622310341</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>-119.9723895466634,37.07017388038488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 17, 1847 - 25 miles NW</name>
+			<description>Tuseday 17th weather cleare &amp; sum cule wind from the North we persued our joutny travled to a dry Creek a distance of 12 Miles crossed over &amp; continued our travel to a second about 10 Miles further whare we found water &amp; grasing good here we ware all in good health &amp; pirits
+-James Pace
+-----------------------------
+
+Tues 17th continued our march about 20 or 25 miles &amp; encamped found plenty of water standing in pool our boys had fine Sport to day after an Elk; he finally distanced them and es caped the smartest horse; he was a fine fellow his horns were probably 4 or 5 feet in length; and he Gently turned his horns over on his back Galloped away from his pursuers with all ease; came Northwest to day; had a fine chance to view the Country to day on account of being with Cap Everet to assist him in viewing the Rout &amp; directing the company forward
+-Robert Stanton Bliss
+--------------------------------</description>
+			<LookAt>
+				<longitude>-120.1396285493439</longitude>
+				<latitude>37.22472865476992</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1554412242802458</heading>
+				<tilt>0</tilt>
+				<range>36412.31277142507</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Point>
+				<coordinates>-120.2970950919844,37.28520092338035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 18, 1847 - 20 miles, river</name>
+			<description>Weddensday 18th weather good travled a distance of 20 Miles to butifull River we encamped just a bove a large Indian Town the Indians ware friendly &amp; kind to us they braut us water melons &amp; greene corn which was an unexpected feast to us
+-James Pace
+-----------------------
+Wed 18th Augst 1847 Started at the usual hour a little after sun rise &amp; traveled over the most Gravely Road we have yet seen on this Rout came about 25 miles to a beautiful River &amp; encamped; here 2 Indians came into camp who could talk Spanish they informed us we were with 2 or 3 days Ride to Suters fort &amp; close by Capt Freemonts trail; so we will have a Road soon to travel in; last night after we camped some of the boys killed an antelope which was fine Eating here we bought Water &amp; Muskmellons and Corn Ripe of this Years growth this Evening another Antelope was brought into Camp
+- Robert Stanton Bliss</description>
+			<LookAt>
+				<longitude>-120.3265225000308</longitude>
+				<latitude>37.47102967957387</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2730666578226536</heading>
+				<tilt>0</tilt>
+				<range>68980.45889321575</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Point>
+				<coordinates>-120.3990648240502,37.51854392512964,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 19, 1847 - 10 miles, river</name>
+			<description>Thursday 19th weathe as usual travled a distance of 10 Miles to another River we wncamped near another Indian Town The chief presented a sertificate to me from the hand of Capt Suter stating ware friendly to the Goverment
+- James Pace
+--------------------------
+Thur 19th Came about 20 miles &amp; camped on another River about the same size that we left this morning; here we found Indians with a Recomend from American Travelers; all of the Rivers we have past are fine as I ever saw in any country; we have passed more timber to day than usual; our boys take much Satisfaction in Swiming in the pure waters that are Gently flowing towards the Great western Ocean
+- Robert Stanton Bliss
+--------------------------------</description>
+			<LookAt>
+				<longitude>-120.3349671770227</longitude>
+				<latitude>37.63681466105866</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2778497176025701</heading>
+				<tilt>0</tilt>
+				<range>68803.35552999284</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Point>
+				<coordinates>-120.4901638200423,37.6527914515612,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 20, 1847 - river</name>
+			<description>Frid 20th Came down the River &amp; on 10 miles &amp; then struck 20 miles to day here we found many Indians who told us there was Americans Living on this River 3 Leagues below Some of our men will go down in the morning to See them &amp; try to Get some Inteligence of our families of the Church here we bought Melons Corn &amp; excelent Salmon of the Indians; this River is like all the rest I have noted beautiful indeed &amp; the Land Timber &amp; Soil look better as we progress North
+-Robert Stanton Bliss
+-------------------------------
+Friday 20th weather good we left camp early travled down the River about 7 Miles then turned North for the next which was 9 Miles further here we found another Tribe of Indians That presented recommends sutter they treted us well braut us Melons &amp; corn which we was glad to get.
+-James Pace
+-----------------------------</description>
+			<LookAt>
+				<longitude>-120.5997325389122</longitude>
+				<latitude>37.88444118665228</latitude>
+				<altitude>0</altitude>
+				<heading>-0.3590952057178511</heading>
+				<tilt>76.53852382527859</tilt>
+				<range>65788.10912976408</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<coordinates>-120.6697359996002,37.78655134353681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 21, 1847 - 12 miles, river pond full of fish</name>
+			<description>Saturday 21th This morning we left the River Mersard travled of a distance of 12 Miles to a River whare we encmped Brother Lytle Rosecrants &amp; Forsgreene went down the Merserd in serch of sum brethren that we supposed to live a few Miles below.
+-James Pace
+-----------------------------
+Sat 21t Struck across North about 10 miles to a Pond Laying in the bed of a Stream that is now dry or does not run; this Pond is full of Fish; we had some for supper
+-Robert Stanton Bliss
+------------------------------</description>
+			<LookAt>
+				<longitude>-120.7283614890743</longitude>
+				<latitude>37.81300663258898</latitude>
+				<altitude>0</altitude>
+				<heading>-0.518572246751425</heading>
+				<tilt>0</tilt>
+				<range>96605.20112799754</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>-120.8478808543747,37.88939278510512,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 22, 1847 - 25 miles, pines</name>
+			<description>Sun 22d 1847 Last night called a meeting to do some business received some Good instruction from Prest Levi H. Hancock &amp; others marched about 12 miles &amp; came to an Indian Settlement; they brought us a blanket full of Mellons &amp; Green Corn for which we gave them some Trinkets &amp; continued our march to a River &amp; encamped; making some 25 miles to day This is a fine stream but not as large as some others we have passed; we have passed more timber to day than usual &amp; more of a mountain Scenery our Camp is near a couple of Norway Pine Trees verry beautiful.&amp; we can see much pine above us on the Mts
+-Robert Stanton Bliss
+--------------------
+Sunday 22th weather as usual left camp early travled a north corse a distance of 25 Miles encamped on a burifull small river Brother Allread Browett Tutle &amp; Hause left for Suters Fort to make enquiry for provision &amp; other nessaryes(sic) articles we wanted
+-James Pace</description>
+			<LookAt>
+				<longitude>-120.8522630890855</longitude>
+				<latitude>38.18067535476276</latitude>
+				<altitude>0</altitude>
+				<heading>-2.39201425357115</heading>
+				<tilt>0</tilt>
+				<range>26585.45830666111</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<coordinates>-120.8974302934702,38.22124075005158,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 23, 1847 - 12 miles dry</name>
+			<description>Monday 23th travled a North Corse a distance of 12 Miles encamped whare water was scierce found a few wild Indians but we could get but little information from them they ware vary degraded &amp; poore (p.61)
+-James Pace
+--------------------------
+Mond 23d Rode with Capt Averet to day to assist him in his hard Labour to find out Suitable passes in the Mountains we are now passing among; we assended a Mt to day &amp; Saw one of the most beautiful views of the Scenery I Ever beheld the California Mts were on our Right &amp; the course of the Sacremento River far to the north &amp; west of us &amp; the many Rivers we have crossed united in one; all Making their course to the great Pacific with the extensive Timber Skirting the Rivers Extended plains &amp;c was one of the Grandest views I ever saw in any country; after a few hours travel we came to an Indian Settlement as soon as the Children saw us they fled to their Mothers for protection one little fellow squat down by the back of his mother as close as he could get for fear we should harm him; Came about 15 miles to &amp; encamped</description>
+			<LookAt>
+				<longitude>-120.9148580341281</longitude>
+				<latitude>38.20518803510548</latitude>
+				<altitude>0</altitude>
+				<heading>-2.430733197872622</heading>
+				<tilt>0</tilt>
+				<range>47704.30714638011</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<coordinates>-120.9253127954817,38.28694687730255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 24, 1847 - 15 Miles, Rhodes Settlement</name>
+			<description>Tues 24th Came about 4 miles &amp; Struck a waggon Road which gave us great joy after traveling so long without a Pilot among a thousand Indian trails; our Pioneers Gave a Shout &amp; it was Echoed along the whole line traveled on the Road some 11 miles to a River making about 15 miles here we found an American living in a new house who informed us we found an American living in a new house who informed us we were 20 miles from Sutters Fort &amp; have come the best &amp; most direct Rout we could therefore we acknowledge the hand of our God in all of our travels for his Spirit &amp; Peace has been with us all the while our Boys have just arived in company with a brother Living in this country they have seen two men who went out with Bro Brannan to relieve the church they tell us that they have arived at bear valley &amp; some 500 waggons are on their trail &amp; will arrive soon at the same place; this News caused Universal joy among us; to think we should in a few weeks see our Families &amp; Friends we have been so long absent from was truly good News;
+-Robert Stanton Bliss
+-----------------------
+Tuseday 24th weather pleasant travled a distance of 20 Miles found an(sic) a settlement from amireca from Misouria an old Mormon by the name of Rodes hre we encamped &amp; rested a day precuard sum peese &amp; receved sum information Brothers Lytle Rosecrants &amp; Forsgreene returned here we learned our fathers ware on there way home wards &amp; was the same ould sixpence here a few of our company stoped for want of menes to go further--</description>
+			<LookAt>
+				<longitude>-121.2881711628108</longitude>
+				<latitude>38.24020099471699</latitude>
+				<altitude>0</altitude>
+				<heading>0.3994297689394987</heading>
+				<tilt>64.86822251030745</tilt>
+				<range>1789.315951319089</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<coordinates>-121.2916982013197,38.24153859759537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 25, 1847 Sutter&apos;s Fort</name>
+			<description>Weddensday 25th was a rest day The Pionears went on to the Fort to get the chance of a shop to shoe horses
+- James Pace
+------------------------
+Wed 25th our Pioneers went ahead about 20 Miles &amp; Camped near Fort Sutters here we met some of our boys that took the Rout to Montera &amp;c Our Camp is some 4 miles from the Fort on the American Fork about 200 miles from the Ocean but notwithstanding the tide water sets back above our Camp; this is a fine country and the people are making money fast but they complain of sickness here like. all new countrys I have been in; in time this will be one of the Greatest places for Comersial advantages in the world where this River puts into the sea is one of the finest harbours in the world I am informed some 500 Whale Ships Winter in Francisco Bay Annually
+- Robert Stanton Bliss</description>
+			<LookAt>
+				<longitude>-121.470434429832</longitude>
+				<latitude>38.57243617424202</latitude>
+				<altitude>0</altitude>
+				<heading>66.46378573284734</heading>
+				<tilt>75.14193038050225</tilt>
+				<range>215.2622403732123</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin14200</styleUrl>
+			<Point>
+				<coordinates>-121.4704135119337,38.57229888344713,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 26, 1847 American River Near Sutter&apos;s Fort</name>
+			<description>Thus 26th Augst Lay in Camp to wait for the main camp to come up &amp; to make some repairs &amp;c Last night the Brethrin called a meeting at the main camp &amp; as some were not prepared to go over the Mts it was agreed that they Stop here if they wished untill spring with the Blessing of the Presidency &amp; Camp; Wages are from 30 to $60 per month; it was also thought best as some traveled faster than others &amp; as we were out of danger &amp; now to enter on a regular Road that we would travel in small companys Especially through the pass of the California mountains.
+-Robert Stanton Bliss
+---------------------------------------------
+Thursday 26th we proceded on our way to see(sic) whare the Pionears ware encamped on the Americane Fork near Suters making a travell of 20 miles</description>
+			<LookAt>
+				<longitude>-121.4153307053553</longitude>
+				<latitude>38.57122585584756</latitude>
+				<altitude>0</altitude>
+				<heading>-1.225140596561349</heading>
+				<tilt>64.31891559085594</tilt>
+				<range>10745.39972553585</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin14200</styleUrl>
+			<Point>
+				<coordinates>-121.4630821071787,38.58554321540666,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>July 27, 1847 - 18 miles NE Dry Creek</name>
+			<description>Frid 27th Continued our journey 18 miles over a Plain towards the Mts N.E. &amp; encamped on a dry water course where we obtained water by diging in the Sand
+-Robert Stanton Bliss
+-------------------------------</description>
+			<LookAt>
+				<longitude>-121.4327809751139</longitude>
+				<latitude>38.8569886778794</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2774193203526116</heading>
+				<tilt>8.647131034473604</tilt>
+				<range>4097.665978443187</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin142</styleUrl>
+			<Point>
+				<coordinates>-121.4269196856304,38.85962885507043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>August 28, 1847 - Bear Creek, Mr Johnson&apos;s Farm</name>
+			<description>Sat 28th Augst 1847 Continued our march 22 miles over a plain to a settlement &amp; encamped on a Stream called Bear Creek near a Mr. Johnsons here are abundance of Fish as in all of the Streams this Side of the Mts</description>
+			<LookAt>
+				<longitude>-121.4223105633188</longitude>
+				<latitude>38.99999034549943</latitude>
+				<altitude>0</altitude>
+				<heading>0.001424771833405472</heading>
+				<tilt>49.81797248109977</tilt>
+				<range>2189.408611236004</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<coordinates>-121.4226667562084,38.99661947993044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aug 5</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-118.8280997381342,35.42850945130888,0 -118.8273831928848,35.43078047905845,0 -118.8271966891729,35.43452837669503,0 -118.8281591383563,35.43845443329133,0 -118.8263401745827,35.44083238871891,0 -118.8286650301006,35.44648304752646,0 -118.8282090864308,35.45189835213506,0 -118.8276794192579,35.45719832216623,0 -118.8269120785126,35.4621072398643,0 -118.8265944177117,35.46159769014969,0 -118.8264607548884,35.46131699875544,0 -118.8263167794399,35.46530138206973,0 -118.8289146290565,35.47011094920289,0 -118.828293352594,35.47328714840893,0 -118.8261904746893,35.47631844354022,0 -118.8208194504139,35.48148316841785,0 -118.8205135024941,35.48237155056521,0 -118.8169597112775,35.48528027951352,0 -118.8166255427103,35.48548867654701,0 -118.8158055401785,35.4875568141922,0 -118.8175713117291,35.48868559862508,0 -118.8202649258923,35.49129781875932,0 -118.8238734258865,35.49665791877052,0 -118.8268427944191,35.50068828416523,0 -118.8326671296117,35.50599617738717,0 -118.8406227906687,35.51180718842302,0 -118.8439499371662,35.51360885070098,0 -118.8494352937325,35.51655839001423,0 -118.85416465897,35.52066523478302,0 -118.8564820407561,35.52409078182261,0 -118.85638018036,35.52582776909101,0 -118.8558070379827,35.5280553184911,0 -118.8577707316872,35.53426781586113,0 -118.8576119998578,35.53427550183866,0 -118.8596592695826,35.53747352980863,0 -118.8618907837018,35.54138825776717,0 -118.8642379809842,35.54432899683588,0 -118.8648209956561,35.54704316293852,0 -118.8605007326691,35.55009247248222,0 -118.856940763862,35.5579931010596,0 -118.8539157101209,35.55940894491614,0 -118.8537566739497,35.55937755989942,0 -118.852922188392,35.56407242120324,0 -118.8543562965159,35.56546597464368,0 -118.8554854585037,35.56748619202888,0 -118.8589728559203,35.57109540154566,0 -118.8598608666867,35.57257962222084,0 -118.8613844474261,35.57352107096629,0 -118.8630096898979,35.57552395308707,0 -118.8645949134099,35.5776213575944,0 -118.8657848074544,35.57965845928096,0 -118.867121630036,35.58067450035885,0 -118.8673239657322,35.58189253949431,0 -118.8660314544858,35.58482524420248,0 -118.8650613270816,35.5883583088725,0 -118.8636512208297,35.58965685343137,0 -118.8630643505783,35.5912445423965,0 -118.8629377551529,35.59254008591191,0 -118.8634116742111,35.59429050718615,0 -118.8623089333517,35.59627997317797,0 -118.8604019467009,35.59880703903795,0 -118.8616168669979,35.60163978846872,0 -118.8625233107138,35.6047692868056,0 -118.8640600422686,35.60620357349377,0 -118.8643476002314,35.60786350000902,0 -118.8641064079787,35.60986779643929,0 -118.8640112183098,35.60996476773225,0 -118.86171250117,35.61084482075766,0 -118.8604848449795,35.61284724218216,0 -118.8593073308077,35.61406055675018,0 -118.859407706091,35.61597889333387,0 -118.8580358065329,35.61798820275443,0 -118.8567218039528,35.6202077566068,0 -118.8552110756135,35.61985538753184,0 -118.8544725046563,35.62031152478757,0 -118.8544637162693,35.62033422105665,0 -118.8542237038183,35.62161102931877,0 -118.8540193409945,35.62255733507955,0 -118.8538557772729,35.62337476110278,0 -118.8539120693617,35.62439740329884,0 -118.8539628127357,35.62446600390272,0 -118.8540304990572,35.62555713539916,0 -118.8536218812484,35.6277562393327,0 -118.8533429474349,35.62846205098528,0 -118.8529418502246,35.63206889821254,0 -118.8552322467363,35.63501868473109,0 -118.8565810944477,35.63673126212802,0 -118.8567008912613,35.63802824679964,0 -118.8562003230597,35.63959855502127,0 -118.8557904166921,35.6403152569935,0 -118.8550977639741,35.6432955684521,0 -118.8552878260029,35.64538987481758,0 -118.8552897242731,35.64550302312283,0 -118.8549001714878,35.64711535213755,0 -118.8539089749181,35.64891065023816,0 -118.8534889227862,35.65094168030704,0 -118.8522783482136,35.65449156690503,0 -118.850657762571,35.65804419598005,0 -118.8481346975585,35.66039566668179,0 -118.8459682342917,35.66219308510448,0 -118.8454010184974,35.66325958525002,0 -118.8482940336443,35.66839497946754,0 -118.8513747204334,35.6710636776354,0 -118.8521779347402,35.67422104047137,0 -118.8516358474386,35.67561312408471,0 -118.8497635814934,35.67672765936076,0 -118.8478042258036,35.67756619902827,0 -118.8453125247378,35.68006525003972,0 -118.8437908309697,35.68323983151418,0 -118.8386500786619,35.68974393983979,0 -118.8351191863293,35.69296402934523,0 -118.8364163131825,35.69588693318312,0 -118.8378589628227,35.69736031979379,0 -118.8387780387213,35.69931314969196,0 -118.838903528096,35.70129139055894,0 -118.8369394739632,35.70297880529244,0 -118.8345860035719,35.70419159884814,0 -118.83634346663,35.70665142774393,0 -118.8394322622365,35.71023047858429,0 -118.8425063584884,35.71138722369599,0 -118.8424479031821,35.71743789392523,0 -118.8407297869407,35.71931149549835,0 -118.8428733824223,35.72252873829758,0 -118.8438613891149,35.72578367696552,0 -118.8426812437596,35.72746952579288,0 -118.8430035058458,35.72856271065276,0 -118.8440679072091,35.73106934619376,0 -118.8459762546048,35.73283754257199,0 -118.8545549325615,35.73311502510796,0 -118.8544092952518,35.73368776111841,0 -118.8548844091412,35.73516094543785,0 -118.8549902395561,35.7365740349634,0 -118.8562900975987,35.73726790396059,0 -118.8554769641313,35.73964143449086,0 -118.8464631761238,35.749652303733,0 -118.8392959798864,35.75890537915132,0 -118.8394774431462,35.76275446857398,0 -118.8376758394058,35.76537521927613,0 -118.8377200890865,35.76730248344405,0 -118.8393136750787,35.7697898070336,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug 6</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-118.8377983469689,35.76742493175836,0 -118.8371932112075,35.76729764292998,0 -118.8360371875585,35.76710450661438,0 -118.8351863403814,35.76784418809949,0 -118.8343472321816,35.76864457533218,0 -118.8342261119156,35.76827519228665,0 -118.8333173254221,35.76946046122659,0 -118.8324232846154,35.77057020912975,0 -118.8324116205034,35.77052162890985,0 -118.831086823421,35.77156124155891,0 -118.830796994731,35.77177192469391,0 -118.830171812976,35.77215354653458,0 -118.8300707996223,35.77210979417003,0 -118.8292643877571,35.77312043664764,0 -118.8276814444162,35.77350051526879,0 -118.827447822937,35.77425993461656,0 -118.8273454338409,35.7742745011135,0 -118.8263119135301,35.77491355441254,0 -118.8250104717453,35.77517507475685,0 -118.8238563888496,35.77590969403437,0 -118.8217096110933,35.77671381044151,0 -118.8197831693972,35.77868023247295,0 -118.8187306604134,35.77975020651158,0 -118.8195273959017,35.78346904999203,0 -118.8192124511907,35.78445987726561,0 -118.8208169999596,35.78586340681521,0 -118.8215776811943,35.78843956593867,0 -118.8212885645669,35.78875698138169,0 -118.8218980121429,35.7892910638409,0 -118.8226539676916,35.79030454247884,0 -118.8223381088455,35.79049088210525,0 -118.8219916158685,35.79213838926229,0 -118.8217517001574,35.79164399380771,0 -118.8214781918517,35.7927624893423,0 -118.8213186532824,35.79481756839795,0 -118.8204654839835,35.79567638292801,0 -118.8195261381408,35.79676596848252,0 -118.8185041298244,35.79785346345127,0 -118.8180381028746,35.79837922024528,0 -118.8181727197899,35.79929858754507,0 -118.8198764253094,35.80086066195408,0 -118.8203777083061,35.80224802030249,0 -118.8204155417764,35.80233669852273,0 -118.8204848895357,35.80244828164528,0 -118.8213135170031,35.8038328963273,0 -118.8216388102224,35.80388623587236,0 -118.8217087967251,35.80392989852574,0 -118.8218106734788,35.80404467505592,0 -118.8217830329591,35.80602522054338,0 -118.8211711372029,35.80702320234528,0 -118.8207027512551,35.80756629688353,0 -118.8199449698118,35.81103612532034,0 -118.821178604489,35.812207727701,0 -118.8213079494088,35.81563763770193,0 -118.8228622888373,35.8186362939795,0 -118.8226732466381,35.82073800789175,0 -118.8220614586229,35.82163238710663,0 -118.8228416927935,35.82297716818728,0 -118.8229763792624,35.82305315303442,0 -118.8255256435879,35.82364036058329,0 -118.8281632253016,35.82386156516502,0 -118.8282376582365,35.82392038612908,0 -118.8297619426552,35.82498934035344,0 -118.8297334012763,35.82508249902648,0 -118.8297522311122,35.82516273288747,0 -118.8301169027747,35.82663317331155,0 -118.8308843681271,35.8281448735822,0 -118.8307858632847,35.82815181384967,0 -118.8299473933101,35.82971769544052,0 -118.8299298402023,35.83130302645525,0 -118.8275691882498,35.83527781252793,0 -118.8237063368142,35.83916843866894,0 -118.8183099983584,35.84419870279564,0 -118.8182500445524,35.8442739179505,0 -118.816374101986,35.84849266315213,0 -118.8147438174257,35.85084333674217,0 -118.8128688991459,35.85205593305836,0 -118.8090913968487,35.85167935747165,0 -118.8064803321836,35.8529980772464,0 -118.8044381359209,35.85490541583064,0 -118.8030719085713,35.85767541118114,0 -118.8007160078081,35.85843480845527,0 -118.7978363832428,35.86036760551956,0 -118.7954658634833,35.86236880411442,0 -118.7956596195781,35.86406623373629,0 -118.7980127187483,35.86719039942162,0 -118.7981474931076,35.86734916905008,0 -118.7982201795704,35.86746663116354,0 -118.7983355710215,35.86768642334616,0 -118.7984852184508,35.86793675657442,0 -118.8021647971147,35.87290616657248,0 -118.806128469057,35.87729796544212,0 -118.8072290538723,35.88079186124671,0 -118.8032372451328,35.8821301882744,0 -118.7986494040201,35.88380347499779,0 -118.7972309774841,35.88623740902388,0 -118.7972753377669,35.89064605813215,0 -118.7981365557366,35.89553530424971,0 -118.7997936613756,35.89783971601544,0 -118.7991685323755,35.9020730523939,0 -118.7979417858917,35.91038185753298,0 -118.7941604224195,35.92527291533056,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug7</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-118.7946935698845,35.92687983159176,0 -118.7942946806219,35.92751389105429,0 -118.7933619051823,35.92915465220467,0 -118.7931030802318,35.93006703187226,0 -118.7929148336752,35.9318865476921,0 -118.7918268675555,35.93471358182328,0 -118.7918103432969,35.93483514585904,0 -118.7918074666912,35.93488287146791,0 -118.7924750840156,35.93740223789921,0 -118.792492477099,35.93796901013303,0 -118.792506788208,35.93836635021145,0 -118.7925046276336,35.93847765936174,0 -118.7934167513589,35.93899703734728,0 -118.7934317749053,35.93964116097916,0 -118.7930658125523,35.94043605911681,0 -118.7941942350532,35.94212651362903,0 -118.794236657814,35.94219311489117,0 -118.7943620236421,35.943133164035,0 -118.7937080963931,35.94449227791639,0 -118.7936111425093,35.9450520610738,0 -118.7940875402122,35.94531958415389,0 -118.7942117124488,35.94546551343862,0 -118.7943713944836,35.94580133793608,0 -118.7943379886364,35.94606193986611,0 -118.7942607524944,35.94632764533431,0 -118.7943250242269,35.94653686266643,0 -118.7943873706041,35.94675945545453,0 -118.7944863214378,35.94713945767808,0 -118.7944645202649,35.94748727639313,0 -118.7944590024927,35.94750118195813,0 -118.7943844256129,35.94793734301951,0 -118.7941327230332,35.94845184304771,0 -118.793901050787,35.94881510609284,0 -118.7939168759112,35.94900362432625,0 -118.7936998088578,35.94924937923999,0 -118.7934389982596,35.94926221259604,0 -118.7932051863445,35.94946501663302,0 -118.7931138515388,35.94983975519101,0 -118.7929468703778,35.95046490423061,0 -118.7925912636141,35.950697348359,0 -118.7922977490367,35.95088719430953,0 -118.7922924786902,35.95088621319336,0 -118.7922256237785,35.95114474599033,0 -118.7922748615868,35.95143318593909,0 -118.7921309006372,35.95173740262921,0 -118.7920101164869,35.95222012665905,0 -118.7920206957416,35.95224529460096,0 -118.7920276610293,35.95227575424109,0 -118.7921053594217,35.95239681578287,0 -118.7921089138397,35.95260844593113,0 -118.7920961186141,35.95261416489011,0 -118.7921705933037,35.95296126058085,0 -118.792054244761,35.95314479554248,0 -118.7916995528194,35.953320431552,0 -118.7915876780305,35.95371042823623,0 -118.7912888019473,35.95420920609479,0 -118.7913737328364,35.95490879093101,0 -118.7918049412912,35.95500839394943,0 -118.7920871485253,35.95512586068969,0 -118.7920920981917,35.95543557826755,0 -118.792455620151,35.95588940671058,0 -118.7926720549167,35.95670765603839,0 -118.7925586676618,35.95755905789343,0 -118.7919694955048,35.95879465779262,0 -118.7918137399963,35.95932984406723,0 -118.7917573660391,35.95991368746136,0 -118.7918055130414,35.96043641301811,0 -118.7915812378366,35.96078307243198,0 -118.7916330828731,35.96122452786313,0 -118.7913823411221,35.96146012505076,0 -118.7913100074593,35.96184912038242,0 -118.7913953557619,35.96213795966838,0 -118.7910122609097,35.96241653972705,0 -118.7910265864883,35.962751556905,0 -118.7906764466602,35.96286265707686,0 -118.791049485877,35.96335771263503,0 -118.7911653216779,35.96393501888652,0 -118.791092246865,35.9643834767371,0 -118.7901582447057,35.96494001316994,0 -118.7896233417781,35.96562805501908,0 -118.7895984248645,35.96679702738832,0 -118.7896919214691,35.9672226759996,0 -118.7904145597655,35.96842310895796,0 -118.7908318116447,35.96928920856895,0 -118.7907670183925,35.9698318264869,0 -118.7914754085269,35.97010285664722,0 -118.7925483770303,35.97089192679331,0 -118.7931471825598,35.97176745531937,0 -118.7939285370305,35.97266781950047,0 -118.7939805528294,35.97383050134373,0 -118.7939998205878,35.97393052981166,0 -118.7946380770469,35.97540230756611,0 -118.7957656259904,35.97597001171234,0 -118.7982650658349,35.97662354862128,0 -118.8010355805059,35.97763249246638,0 -118.8031352246449,35.97834799552481,0 -118.8064270635317,35.97996170619937,0 -118.8101964087776,35.98042461089111,0 -118.8127414002462,35.97873197359323,0 -118.8126833543755,35.97871438868486,0 -118.8154239861427,35.97819448823651,0 -118.8166487698517,35.97856723714516,0 -118.8175586497582,35.9785878153613,0 -118.8179647098677,35.97940644978783,0 -118.8185038904518,35.98126231590065,0 -118.8193857646866,35.98222281297569,0 -118.8192629696428,35.98627678614849,0 -118.8189293973078,35.99217381408641,0 -118.8192710821488,35.99557268635414,0 -118.8198727003113,35.99938096141751,0 -118.8198585975928,35.99939484717635,0 -118.8221678256186,36.00446541450043,0 -118.8205044766745,36.00469422337984,0 -118.8199126675707,36.00526671719197,0 -118.8191077134321,36.00594089054145,0 -118.817349910023,36.00616958727714,0 -118.8172632673135,36.00609195617597,0 -118.817215603331,36.00604966822909,0 -118.8161765417834,36.0064352809321,0 -118.816104119013,36.0063874367195,0 -118.8165694772998,36.00678720983823,0 -118.8180426378861,36.0072524292673,0 -118.8192225706934,36.00755102122771,0 -118.819992977962,36.00741485216699,0 -118.8192693834982,36.00800234950779,0 -118.8184716743675,36.00829200991891,0 -118.8182540986125,36.00865409104532,0 -118.8195329223355,36.00940417941115,0 -118.8212423583536,36.01088884093122,0 -118.8224787502934,36.01227462799157,0 -118.824412906343,36.01393603752628,0 -118.8255628728175,36.01541565299352,0 -118.8262694524299,36.01676254191887,0 -118.8294600837234,36.01797519742728,0 -118.8331968419916,36.02025506706126,0 -118.8361008550169,36.02312313449274,0 -118.8400456246559,36.02605787755358,0 -118.846598892524,36.0276548984187,0 -118.851967214249,36.03173716293936,0 -118.8532865643915,36.03586311184372,0 -118.8567424142982,36.04047474338891,0 -118.8572430193506,36.04520499210825,0 -118.8589974304809,36.0482784318142,0 -118.859282221337,36.04978344648229,0 -118.860063547582,36.05307829229446,0 -118.8594142243255,36.05856687758575,0 -118.8591087785809,36.06406928694019,0 -118.85811205293,36.06699754557508,0 -118.8567894481797,36.06995446356074,0 -118.8524728732699,36.07407224851517,0 -118.848239067744,36.07970996424494,0 -118.8439300000942,36.08336528702002,0 -118.8364617928831,36.08796136683912,0 -118.8298241399266,36.08842434201401,0 -118.8246137503186,36.08671040666977,0 -118.819447237028,36.08736222221482,0 -118.8155145527615,36.08950451350688,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug8</name>
+			<description>Aug8</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-118.8151808488144,36.08667515967351,0 -118.8101195694258,36.09259836639032,0 -118.8106782030578,36.10336055071777,0 -118.8136245567717,36.10812149655566,0 -118.8201115511242,36.1123066430899,0 -118.819080565169,36.11680498992043,0 -118.8215075073338,36.11881809031534,0 -118.8204625637332,36.12186607481221,0 -118.8178216694434,36.12587421421507,0 -118.8151348023915,36.12919196128504,0 -118.8133269363238,36.1306700317797,0 -118.8110394919485,36.13140886060968,0 -118.8100529464177,36.13264209638723,0 -118.8080803425903,36.13503477821087,0 -118.8068858199591,36.13655427847442,0 -118.8029202818621,36.13786355174144,0 -118.8008632882336,36.13857837182152,0 -118.799441171245,36.13793201074677,0 -118.7980829595082,36.13716664462397,0 -118.7981575138323,36.1371211282765,0 -118.7969507862045,36.13399845277247,0 -118.794268853558,36.13303460010542,0 -118.7910175772087,36.13138170105199,0 -118.7871760259578,36.1307705685397,0 -118.7819245020684,36.13037073757628,0 -118.7794299533439,36.13045561942781,0 -118.7720352139619,36.1324721730366,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug9</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-118.7717354267163,36.13442798598002,0 -118.7750561567311,36.13311351955691,0 -118.7780802367278,36.13259200012697,0 -118.7807352206821,36.13236953443644,0 -118.7839062387635,36.13240057599102,0 -118.788183003998,36.13405514214953,0 -118.7966540315711,36.14352625036683,0 -118.7972711346448,36.14549136898187,0 -118.805266468701,36.14307318589112,0 -118.8110547682333,36.13901868894088,0 -118.8159783713132,36.13325439676603,0 -118.8162043489134,36.13297712310443,0 -118.8166490863905,36.13247584973197,0 -118.8221475323704,36.12689790522723,0 -118.8222905788131,36.12671138208108,0 -118.8275282662541,36.12511917209316,0 -118.8276140296601,36.12506681411372,0 -118.8337989464192,36.12518064000368,0 -118.8338562444051,36.12517756611319,0 -118.8378321013793,36.1245207057604,0 -118.8395189660947,36.12422230831695,0 -118.841176791323,36.12432267771015,0 -118.8426628641026,36.12455503346452,0 -118.8436094437721,36.1246097264837,0 -118.8461421582999,36.12480148470878,0 -118.8449846516949,36.12445489674991,0 -118.8451028814403,36.12418969049371,0 -118.8476247786745,36.12453088680797,0 -118.849082490791,36.12417072705362,0 -118.8500207342137,36.12418066320162,0 -118.8509550176212,36.12410570502544,0 -118.8525100061489,36.12544541442258,0 -118.8528264389105,36.12668535296083,0 -118.85385495325,36.12793922896976,0 -118.8551798474121,36.12793228748694,0 -118.8567427447541,36.12875965001245,0 -118.8587434927423,36.12993710529388,0 -118.8595054863999,36.13045462558928,0 -118.8751253347027,36.14643238636598,0 -118.8766846520214,36.14868472343382,0 -118.8782880546206,36.15101546891518,0 -118.8803733629193,36.15432896805898,0 -118.8912587657411,36.1653587121125,0 -118.893797703117,36.170389891603,0 -118.8966711000095,36.17442213753714,0 -118.9011929628363,36.17876030936479,0 -118.9071340531465,36.18814182204116,0 -118.9133113327138,36.19846043592005,0 -118.9155228227629,36.20566865532766,0 -118.9183970767494,36.21262043583343,0 -118.9274652298771,36.21928523901739,0 -118.952203074167,36.25214704195087,0 -118.9618955006165,36.25408986558635,0 -118.9742490617087,36.26289538022918,0 -118.992573788495,36.26873679931426,0 -118.9947780498003,36.2802197095243,0 -118.9977277782275,36.29028111764094,0 -119.0057431423449,36.30444235364831,0 -119.018406858737,36.31892389239361,0 -119.0401992279363,36.33896461353341,0 -119.041833369175,36.34100242200616,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug10</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-119.0432389362659,36.34289828001523,0 -119.0419030469267,36.34729652745819,0 -119.0400531220271,36.35227234236164,0 -119.0393396420222,36.35674864340385,0 -119.0361540574639,36.36304338525915,0 -119.0359489002895,36.36320878219729,0 -119.0326539741031,36.36909188304615,0 -119.0291452463688,36.37233080250589,0 -119.023588920906,36.38078154390084,0 -119.0148790061311,36.38877873708735,0 -119.0117609187763,36.39533377281555,0 -119.0123998243663,36.4007885168093,0 -119.0043447392982,36.4042218930044,0 -119.0014392800809,36.40594376420637,0 -119.0032492578065,36.40859353555173,0 -119.0031485347476,36.41170266728564,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug11</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-119.0049374133794,36.4141615786521,0 -119.0042720990656,36.41902240096369,0 -119.0046596793685,36.42009638803361,0 -119.0047976166679,36.4209866266767,0 -119.012531062066,36.41815215667239,0 -119.0222131482151,36.41576943143598,0 -119.0255873819726,36.40948148450186,0 -119.0298717318812,36.40178486269907,0 -119.0314629769567,36.40035937290998,0 -119.0363888497848,36.40096499338098,0 -119.0532775014005,36.40549954747198,0 -119.0814698831585,36.42246315153555,0 -119.1113249174343,36.4451968820899,0 -119.1359539998481,36.46293532673793,0 -119.1383821233376,36.46376659176102,0 -119.1440641426991,36.47047706356457,0 -119.1438779846199,36.4703185391151,0 -119.1468219418525,36.47313313070077,0 -119.1503124819275,36.47615649800255,0 -119.1527783531484,36.47827919206962,0 -119.2328556763332,36.50154392744663,0 -119.239484722444,36.50579948777138,0 -119.2454976650582,36.51123760913661,0 -119.247145229111,36.5133903960739,0 -119.2923216283387,36.60190730757971,0 -119.3047803472261,36.61715700648769,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug12</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-119.3056710705643,36.62134577131214,0 -119.4323467610643,36.68662090025738,0 -119.446540136046,36.73266790140148,0 -119.4459481594015,36.75174819605623,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug13</name>
+			<description>Exploring up the kings river, looking for a pass over the sierras</description>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-119.4452847979564,36.75388328408172,0 -119.4310795265332,36.76434725842268,0 -119.4197715261165,36.77331156344177,0 -119.4116094177202,36.78786970464365,0 -119.4086191790821,36.79199291092955,0 -119.4020807096151,36.79581892597952,0 -119.3940899394765,36.7978929145785,0 -119.3868260197208,36.803043193235,0 -119.3862876864162,36.80354159087977,0 -119.3819882783152,36.80894750254558,0 -119.3837095527259,36.81161527132649,0 -119.3841887242524,36.81526904266836,0 -119.381226632726,36.81840626101637,0 -119.3811736210055,36.81838933613156,0 -119.3768800418886,36.81685827170399,0 -119.3704377925544,36.81476238122777,0 -119.3601802162468,36.81726216396306,0 -119.3524881659835,36.82003636160397,0 -119.3343426241206,36.82883325668318,0 -119.3186742936921,36.83463402902191,0 -119.3161808660955,36.83780511751711,0 -119.3162330956199,36.8378625255403,0 -119.3182046568064,36.84506347488414,0 -119.3182269087023,36.84522284552836,0 -119.3172679810794,36.84846839095004,0 -119.3171670278813,36.84866492493074,0 -119.317006993386,36.84883781262803,0 -119.3138304296226,36.85467349887462,0 -119.313632944152,36.85483805950174,0 -119.3108158903606,36.85740470712624,0 -119.302685486738,36.85887315680861,0 -119.2963961609616,36.86083005183809,0 -119.2960031339522,36.86092579295592,0 -119.2918554918147,36.86014719514548,0 -119.2917977960347,36.86012065933013,0 -119.2875249850054,36.85785848435606,0 -119.2833669404864,36.85765465225999,0 -119.283221020946,36.85758748839114,0 -119.277647850679,36.85929532547318,0 -119.2718279869313,36.86363945824161,0 -119.2714953773103,36.86368871390071,0 -119.2650749677268,36.86640251931952,0 -119.2635659173634,36.8681231417592,0 -119.2679789455588,36.87320377314579,0 -119.2788228677739,36.8780600133001,0 -119.2843552040716,36.88024231410365,0 -119.2867211537772,36.88271408412291,0 -119.2872955227631,36.88565809032809,0 -119.2889927755016,36.89433765963264,0 -119.2889869453315,36.89465964610993,0 -119.2888808278288,36.89849013915126,0 -119.2887728917927,36.89858790447013,0 -119.2865091369292,36.90090369629925,0 -119.2771685206914,36.89843324584335,0 -119.271168933316,36.894592551961,0 -119.263050332323,36.89197499273342,0 -119.2626258526304,36.89050972728486,0 -119.2595515870151,36.88983655067158,0 -119.2594987313457,36.88980371329612,0 -119.2594458810002,36.88977087790506,0 -119.2552909930133,36.88949594878457,0 -119.252451750824,36.88786022848032,0 -119.2523257231958,36.88778173783359,0 -119.2493491846621,36.88460651911338,0 -119.24583360602,36.88432151033948,0 -119.2457093883165,36.8843811570551,0 -119.2383107394035,36.88618638085433,0 -119.2335432543394,36.88294747724293,0 -119.237225371162,36.87695704875905,0 -119.236004156431,36.87405988377225,0 -119.2340936790593,36.87024701362584,0 -119.2295369678984,36.86946891200887,0 -119.2269539367799,36.87167516702522,0 -119.2224860746098,36.87172351650263,0 -119.2193453242904,36.87040853372047,0 -119.2151434487029,36.86980247506483,0 -119.2103745463501,36.87107433183865,0 -119.2047687244761,36.87309305214561,0 -119.1987040244675,36.87398966588113,0 -119.1985539228466,36.87398261802088,0 -119.1939532302368,36.87504589933712,0 -119.1836440372905,36.87702684327759,0 -119.1788179453139,36.87929142755714,0 -119.1712377786399,36.88432870698063,0 -119.1591527323625,36.88703881123399,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug15</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-119.4124077855577,36.79335483146273,0 -119.4410725664831,36.80448742066348,0 -119.4481065994239,36.80744675629396,0 -119.4554593311692,36.81954349007471,0 -119.4594273890752,36.82269943394559,0 -119.4659178070202,36.82466589763483,0 -119.4701501714872,36.82608141455479,0 -119.4741547266923,36.82756112212052,0 -119.4790670942111,36.82973820586643,0 -119.5080447995948,36.84475887159949,0 -119.5127660338774,36.84863043241463,0 -119.5231660679107,36.85553441784447,0 -119.5382446609411,36.86434064808932,0 -119.5472170674389,36.86902003469186,0 -119.5644484860926,36.87593584512535,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug15b</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-119.5668025596575,36.87703763658415,0 -119.5742976652082,36.87994638087483,0 -119.5868886382427,36.88175438458182,0 -119.5872334623921,36.88189308037092,0 -119.5877996419192,36.88207407967707,0 -119.6014947407884,36.88522982899716,0 -119.6102143668516,36.88579977183489,0 -119.6107363434903,36.88601435808477,0 -119.6149169157458,36.8943841307368,0 -119.6359452258186,36.89848508821725,0 -119.650704746905,36.90466707716395,0 -119.6753533551104,36.92082348914882,0 -119.6792571150865,36.9361805941237,0 -119.6837429157819,36.94982366145695,0 -119.6911634854798,36.96542415938836,0 -119.7111358058084,36.98916428186526,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug16</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-119.7233392390728,36.99845682352228,0 -119.7631455375361,37.01817146297673,0 -119.7988478162876,37.02278631441678,0 -119.8259453096749,37.02661688004213,0 -119.8564673512851,37.03120492881447,0 -119.8918924674771,37.03154316678274,0 -119.9245345583396,37.0391332901078,0 -119.9411023333022,37.04485635099115,0 -119.9586120980919,37.05958775075143,0 -119.9700083814192,37.07082771805968,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug17</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-119.9747040084901,37.07251622019641,0 -120.0197245909634,37.08017851419206,0 -120.0395214050866,37.10489010909746,0 -120.0839382911238,37.12480904218017,0 -120.1259760430209,37.14969736763134,0 -120.1258539698004,37.16576290480992,0 -120.155148230183,37.18423419548399,0 -120.1828412561623,37.213001933114,0 -120.2061025826208,37.23722924026207,0 -120.2312215929007,37.25283978114922,0 -120.2600941687465,37.26910463172648,0 -120.2741153623639,37.27723357525105,0 -120.2836141270217,37.28439494343696,0 -120.2981437818503,37.28733580630747,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug18</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-120.2979048869521,37.28961918235845,0 -120.2985089151198,37.30737456788735,0 -120.3023255987157,37.35756684816361,0 -120.3131289016838,37.39462891960854,0 -120.3265961057977,37.4179636480613,0 -120.3416334750222,37.44155990654231,0 -120.3566683408141,37.46826897074328,0 -120.3741375211406,37.49496386680246,0 -120.397096681318,37.5176185293925,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug19</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-120.3994647925693,37.52270072261114,0 -120.4042507656555,37.53767564649744,0 -120.4114881467434,37.55722920426336,0 -120.4171642030056,37.58087043831519,0 -120.4298766000741,37.60231213988416,0 -120.4480739513905,37.6212268666468,0 -120.4662768762744,37.63483661763868,0 -120.4877667033774,37.65279948788098,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug20</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-120.4896952289955,37.65180333215376,0 -120.4958629194072,37.63941549409009,0 -120.5049533235337,37.62859668227619,0 -120.5129507681086,37.62564001586033,0 -120.524578045616,37.61903060338802,0 -120.5364369711019,37.62344601372366,0 -120.5512022419901,37.62337910417748,0 -120.5671401835812,37.62483656750587,0 -120.5807101396534,37.62573743746908,0 -120.5853868691612,37.63669389100743,0 -120.5895159960088,37.64476956418521,0 -120.5992565709798,37.6594108199037,0 -120.6116136641886,37.68281992765519,0 -120.624831915937,37.7061226764222,0 -120.6383008124563,37.73560986355788,0 -120.6543546625177,37.7668240111312,0 -120.6676799943416,37.79635003018799,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug21</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-120.6675492989485,37.79057948739178,0 -120.6730303434588,37.78880571502648,0 -120.6820445595805,37.80206339994886,0 -120.6897407326678,37.8127091157751,0 -120.7076701095778,37.8182407257436,0 -120.7306262596913,37.8249142755527,0 -120.7591544395591,37.83271087645977,0 -120.7893961692687,37.84174590809896,0 -120.8050662923816,37.85606349303718,0 -120.8268053738594,37.870606143381,0 -120.8412708963766,37.88320269598337,0 -120.848351571122,37.89127088091702,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug22</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-120.8496789063485,37.89516172758643,0 -120.8535620268824,37.92685279189538,0 -120.8527764454447,37.94344708547657,0 -120.8546948430908,37.96908505193382,0 -120.8554955763322,37.98431114232646,0 -120.8579326678315,38.00949824165961,0 -120.8654282330147,38.02579690923213,0 -120.8768438982788,38.07664297150201,0 -120.8776065692315,38.10488786076841,0 -120.8794718943832,38.11649166272826,0 -120.8779720986509,38.12832324595505,0 -120.8842152153129,38.14034910522626,0 -120.8854963625901,38.15407557903577,0 -120.8884410801357,38.17575505671999,0 -120.8904369374343,38.18992847376109,0 -120.8910169557165,38.1988335029757,0 -120.896967204118,38.21311603637816,0 -120.8986909078843,38.2205329035719,0 -120.899044284909,38.22112715852179,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug23</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-120.8982737229784,38.22779721996373,0 -120.9025359641455,38.23560301782305,0 -120.9056010124168,38.23657623379511,0 -120.9062141615879,38.24278675874863,0 -120.9056667646472,38.24797736116852,0 -120.9068058346476,38.25370352426647,0 -120.9079428838486,38.25944310176687,0 -120.9127897271917,38.26801771634945,0 -120.9130856829547,38.26843751099832,0 -120.9205020426896,38.27913634200069,0 -120.9228024802215,38.28616883373031,0 -120.9245143259383,38.2874030027369,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug24</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-120.9294138696744,38.28885259949125,0 -120.9354717325772,38.28984381441984,0 -120.9430232263767,38.29091659731792,0 -120.9432128293857,38.29090260412282,0 -120.9436026040143,38.29090564202095,0 -120.9518844569137,38.29233203283194,0 -120.9519734661544,38.29237290820286,0 -120.9524188289411,38.29257737416945,0 -120.9527456430966,38.29278945285353,0 -120.9616898012147,38.29768384239947,0 -120.9621815892319,38.2979154180542,0 -120.9628996127056,38.29829004919534,0 -120.9734596314047,38.30465517450808,0 -120.9865845766922,38.30949940170763,0 -120.9968884394904,38.30788210881453,0 -121.0125927100776,38.30107716497529,0 -121.0292928226421,38.29875448653902,0 -121.0411022107169,38.29489873042588,0 -121.0481666819624,38.29072486069394,0 -121.055537471021,38.29360589015307,0 -121.0604758321095,38.29703183446242,0 -121.0609414119146,38.29737691136928,0 -121.0613306956769,38.2975954867601,0 -121.0686906725173,38.29972253923795,0 -121.0777968511426,38.29501312397547,0 -121.0823406596973,38.29040684388431,0 -121.0885379780915,38.28733351722121,0 -121.0984491754189,38.28403677329731,0 -121.1104407154698,38.27998601755795,0 -121.1168117005982,38.27744079378506,0 -121.12097915674,38.27790070775517,0 -121.1278291094901,38.27758182793727,0 -121.1308625990328,38.2745564400804,0 -121.1368654390947,38.27189183555225,0 -121.1429941049316,38.26893955359977,0 -121.1500999092332,38.26761551097493,0 -121.1569194768246,38.26695358587311,0 -121.1591467258934,38.26507664159742,0 -121.1606664746823,38.26199943594679,0 -121.1689582631644,38.25802425186117,0 -121.1784308866899,38.25492058511034,0 -121.189328057612,38.25431394746201,0 -121.1992828220291,38.253922189555,0 -121.2045666109772,38.24932205027056,0 -121.2189398663498,38.24865569178206,0 -121.2312107534931,38.24829002849387,0 -121.2404732645573,38.24675405510108,0 -121.2480292278593,38.24591974396431,0 -121.2576319836568,38.24883243392533,0 -121.2651757779537,38.25074769696313,0 -121.2724852376598,38.25122910006088,0 -121.2780992720311,38.24992580836447,0 -121.2827937574125,38.24917148778983,0 -121.2865855591001,38.24678193707132,0 -121.2886754721685,38.24374015801447,0 -121.2937391358956,38.24138245071005,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug25</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-121.2913041878696,38.24298999214597,0 -121.3026329163382,38.24303986698603,0 -121.3060142327329,38.25230186882672,0 -121.3097286946251,38.26133174260094,0 -121.3134558269811,38.27183876944053,0 -121.3173500032992,38.28247699318952,0 -121.3222177889789,38.29507479903203,0 -121.3280616670274,38.30969395410637,0 -121.3332283149892,38.3247929905069,0 -121.3378098353524,38.33668686529447,0 -121.3415316562446,38.3470276484726,0 -121.3467691499017,38.36134477304544,0 -121.3766983186241,38.39173244130548,0 -121.3970307732257,38.42723392297388,0 -121.410213898034,38.45736620471729,0 -121.4246128908493,38.48866815520647,0 -121.4414335275034,38.5225464679933,0 -121.4513608002757,38.54358032198952,0 -121.4648840590008,38.56227781322507,0 -121.468214115127,38.57326978006506,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug28</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-121.4608214586394,38.58961762710912,0 -121.4637844900068,38.59247089382134,0 -121.4693253550339,38.59915057068934,0 -121.4683956374373,38.61076901024943,0 -121.4755174697484,38.66094346970829,0 -121.4782981313094,38.67218360965673,0 -121.4843079648152,38.68047190139465,0 -121.4842725500324,38.70949829312328,0 -121.4907768141045,38.73552704465606,0 -121.4990457944869,38.77499380831125,0 -121.4234849196813,38.99648910500638,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Aug29</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-121.4215196283259,39.00827662003877,0 -121.4047798834006,39.0193505668696,0 -121.3863528873983,39.02781634450279,0 -121.3664535821156,39.03367246593883,0 -121.3407141354365,39.03758477772882,0 -121.3317132598623,39.04310777856976,0 -121.3222993740568,39.0439242808075,0 -121.3187407919422,39.04912580823375,0 -121.3139001969443,39.05132430188203,0 -121.3030312319727,39.05002660591474,0 -121.2936254389697,39.04401990533009,0 -121.2894460963696,39.03720151272079,0 -121.2710602432063,39.03281023212961,0 -121.2570663082763,39.02858606413667,0 -121.24873355151,39.02661696357632,0 -121.240563984787,39.02176513979038,0 -121.2338912164207,39.02451296034335,0 -121.2211839085439,39.01281538587867,0 -121.2076288201695,39.01231958997945,0 -121.1990957000576,39.01732882159762,0 -121.1874597876085,39.01341832091947,0 -121.1831107013872,39.01567590304581,0 -121.180280822246,39.01969836546324,0 -121.1728201581265,39.01919658048547,0 -121.1638683704827,39.02225621259599,0 -121.1544059374193,39.02674530195804,0 -121.149154814244,39.03202637575187,0 -121.1388794650905,39.03714412548111,0 -121.1297520268804,39.03438492944192,0 -121.124658723147,39.03128921031134,0 -121.1237704999095,39.02840209212861,0 -121.119527577214,39.02224746899269,0 -121.1131180233415,39.01785114622238,0 -121.1078705456274,39.01801349959003,0 -121.1044149913353,39.01300836503169,0 -121.0969569610269,39.01267383881145,0 -121.0895553208776,39.0134594643991,0 -121.0845435995206,39.01062510707908,0 -121.0799854004842,39.00676744576174,0 -121.0708646538015,39.00500351532123,0 -121.060719185495,39.00900543278732,0 -121.049136937484,39.01267739221495,0 -121.0379727088923,39.0153768434831,0 -121.0373318193754,39.02115465499318,0 -121.0315290128527,39.02692120170947,0 -121.0296393856713,39.03558124181197,0 -121.0213545824281,39.04021762405444,0 -121.0196896536693,39.0459828020922,0 -121.0122607517147,39.04804064282774,0 -121.0130496670841,39.05238757124227,0 -121.0091472129195,39.05156221520554,0 -121.0085173046618,39.05476546048227,0 -121.0068447190718,39.05845389178691,0 -121.0068288960298,39.06118421002941,0 -121.0031308787131,39.06227659322723,0 -121.0028879482004,39.06582297173939,0 -120.9875133146857,39.09205586504045,0 -120.9876547376784,39.11190035304169,0 -120.9764209257523,39.11216649238462,0 -120.9511280539685,39.13675662850729,0 -120.940778692232,39.14726779566234,0 -120.9298383208977,39.1542533019453,0 -120.9242516603357,39.1588691826959,0 -120.9106358331426,39.16329506324271,0 -120.9070986341111,39.16648721586772,0 -120.9071011544274,39.17014681720098,0 -120.8945486141822,39.17534664466814,0 -120.8813561892349,39.17928773502631,0 -120.868587657206,39.18290068681093,0 -120.8614386572308,39.1939667284247,0 -120.8568554586872,39.20430190607713,0 -120.8493440319768,39.21244702871928,0 -120.8284747612918,39.22260852418484,0 -120.8012929428174,39.23479962047403,0 -120.7861008437986,39.24581305278024,0 -120.7666374959754,39.25758068974666,0 -120.7515477707824,39.26900325977016,0 -120.7296546067123,39.2864155698749,0 -120.7106912473744,39.29283066045964,0 -120.6734025350675,39.2987175545057,0 -120.6652453307534,39.30130501427791,0 -120.6561762286811,39.3042298446223,0 -120.6410509812397,39.30966830928335,0 -120.6312255608106,39.31194734913542,0 -120.6214643066622,39.3162922318356,0 -120.6121081191901,39.31914331915027,0 -120.6042801953711,39.32304562827277,0 -120.5993545716165,39.32595469865572,0 -120.5916984938847,39.32801259510419,0 -120.5832519498958,39.32997663419756,0 -120.5723881763911,39.32693385170214,0 -120.5607734222396,39.31859188916975,0 -120.541777815749,39.30862366148114,0 -120.5320838023018,39.30567741161794,0 -120.5206052681931,39.30765512052649,0 -120.5130583296113,39.31375042868577,0 -120.4968113809587,39.31206045661113,0 -120.4759427647194,39.31377228899721,0 -120.453635954102,39.3153239431056,0 -120.4362379890908,39.31657783520824,0 -120.414680815767,39.32433582301473,0 -120.4041275384375,39.32277395820687,0 -120.3927693056787,39.32523448644478,0 -120.3861142893973,39.32803136463802,0 -120.3751163290251,39.32670874804025,0 -120.3526610228143,39.33624375970804,0 -120.3457195223081,39.33977388902325,0 -120.3306612417748,39.34316842094319,0 -120.3206140160544,39.34117184230901,0 -120.3128363375797,39.34211668812794,0 -120.308261549355,39.33876647215215,0 -120.3008230027149,39.32865447105165,0 -120.2925576529661,39.32947164354999,0 -120.2828351290613,39.33018563400562,0 -120.2711814373508,39.32839962292429,0 -120.2563780349837,39.33210154630552,0 -120.2432808556732,39.32980766463638,0 -120.2214774741895,39.32413891097823,0 -120.2024484029436,39.32333496917742,0 -120.1856978390633,39.33047490968004,0 -120.1657781885021,39.33989153296924,0 -120.1431979275816,39.35760328062372,0 -120.1172227638422,39.36494422331039,0 -120.103973930505,39.37631400363492,0 -120.085518610172,39.38424318596574,0 -120.0647822811153,39.37415373902929,0 -120.0399734733951,39.37038887065319,0 -120.0255371109044,39.3782005567796,0 -120.0228329293826,39.39012393030279,0 -120.022143702344,39.40083470502139,0 -120.0221364673658,39.40115737514189,0 -120.030986949631,39.42087825725937,0 -120.0309420653855,39.43132315625621,0 -120.0080946365976,39.4542197946319,0 -119.9939483900631,39.48342271654745,0 -119.9915486060027,39.5107868667941,0 -119.9689605464565,39.51879620277748,0 -119.9274981403214,39.51251367329905,0 -119.8426966350933,39.52574393330646,0 -119.7959437467059,39.53294711659547,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Pass Emigrant Gap</name>
+			<LookAt>
+				<longitude>-120.8040040961885</longitude>
+				<latitude>39.16613769946758</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8914263745972878</heading>
+				<tilt>4.048079543213428</tilt>
+				<range>71076.67388540869</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-120.682409684242,39.29574182743126,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
